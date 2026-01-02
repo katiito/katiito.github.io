@@ -4349,6 +4349,101 @@
     "volume": "21"
   },
   {
+    "id": "lepperMultipleMechanismsStrain2025",
+    "abstract": "2\n          Abstract\n          \n            Background\n            Disease caused by antibiotic resistant pneumococcal strains is an important public health concern. The impact of public health interventions depend on the complex ecology governing serotype and antibiotic resistant strain dynamics, for which we currently lack mechanistic explanations. Ee evaluated whether multi-serotype transmission models of antibiotic resistant pneumococcal strains can recapitulate empirical resistance data, thus providing a plausible explanation for how antibiotic-sensitive and resistant strains coexist at intermediate frequencies, both between and within serotypes.\n          \n          \n            Methods\n            We extracted a global dataset of pneumococcal carriage prevalence in healthy, unvaccinated children by serotype and penicillin susceptibility from a previously-published systematic review. Next, we developed a suite of multi-serotype individual-based models that have previously been shown to plausibly explain coexistence in single serotype models, incorporating transmission and clearance rate differences between serotypes and serotype-specific immunity. Finally, we calibrated the suite of models to the relative serotype prevalence and overall resistance frequency drawn from the extracted dataset.\n          \n          \n            Results\n            Overall resistance frequency varied considerably between studies, but we found a positive association between frequency of a serotype and resistance frequency within that serotype, and a high degree of coexistence of sensitive and resistant strains within serotypes. Each individual-based model predicted different serotype-specific resistance frequencies, but combining models was necessary to capture all features of the empirical data.\n          \n          \n            Conclusions\n            Serotype-specific resistance patterns may give important clues to understand fundamental antibiotic resistance epidemiology. We show that combining multiple independently plausible mechanisms can capture resistant pneumococcal carriage, but additional data are needed to determine the strength of these individual mechanisms within these combinations.",
+    "accessed": {
+      "date-parts": [
+        [
+          "2026",
+          1,
+          2
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Lepper",
+        "given": "Hannah C."
+      },
+      {
+        "family": "Pujol-Hodge",
+        "given": "Emma"
+      },
+      {
+        "family": "Hackman",
+        "given": "Jada"
+      },
+      {
+        "family": "Van Zandvoort",
+        "given": "Kevin"
+      },
+      {
+        "family": "Mellor-Wright",
+        "given": "Kate"
+      },
+      {
+        "family": "Lorenz",
+        "given": "Oliver"
+      },
+      {
+        "family": "Lo",
+        "given": "Stephanie"
+      },
+      {
+        "family": "Dang",
+        "given": "Duc Anh"
+      },
+      {
+        "family": "Do",
+        "given": "Hung Thai"
+      },
+      {
+        "family": "Tonkin-Hill",
+        "given": "Gerry"
+      },
+      {
+        "family": "Bentley",
+        "given": "Stephen D."
+      },
+      {
+        "family": "Myint Yoshida",
+        "given": "Lay"
+      },
+      {
+        "family": "Flasche",
+        "given": "Stefan"
+      },
+      {
+        "family": "Davies",
+        "given": "Nicholas G."
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      }
+    ],
+    "citation-key": "lepperMultipleMechanismsStrain2025",
+    "DOI": "10.1101/2025.05.16.25327750",
+    "issued": {
+      "date-parts": [
+        [
+          "2025",
+          5,
+          16
+        ]
+      ]
+    },
+    "language": "en",
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "note": "Original entry: [77]",
+    "publisher": "Epidemiology",
+    "source": "DOI.org (Crossref)",
+    "title": "Multiple mechanisms of strain competition are needed to explain pneumococcal serotype-specific antibiotic resistance patterns",
+    "type": "article",
+    "URL": "http://medrxiv.org/lookup/doi/10.1101/2025.05.16.25327750",
+    "citation-count": 0
+  },
+  {
     "id": "lindseyCharacterisingWithinhospitalSARSCoV22022a",
     "author": [
       {

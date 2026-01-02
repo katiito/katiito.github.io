@@ -8,6 +8,11 @@ permalink: /papers/
 
 ### 2025
 
+[77] Hannah C. Lepper, Emma Pujol-Hodge, Jada Hackman, Kevin Van Zandvoort, Kate Mellor-Wright, Oliver Lorenz, Stephanie Lo, Duc Anh Dang, Hung Thai Do, Gerry Tonkin-Hill, Stephen D. Bentley, Lay Myint Yoshida, Stefan Flasche, Nicholas G. Davies, **Katherine E. Atkins** (2025)
+**Multiple mechanisms of strain competition are needed to explain pneumococcal serotype-specific antibiotic resistance patterns**
+DOI: [10.1101/2025.05.16.25327750](https://doi.org/10.1101/2025.05.16.25327750)
+Citations: 0 | [Open Access](http://medrxiv.org/lookup/doi/10.1101/2025.05.16.25327750)
+
 [76] Tomoka Nakamura, Ryo Kinoshita, Akira Endo, **Katherine E. Atkins**, Hitoshi Oshitani, Yoko Ibuka, Motoi Suzuki, Koya Ariyoshi, Kathleen M. O’Reilly (2025)
 **Continuing to be cautious: Japanese contact patterns during the COVID-19 pandemic and their association with public health recommendations** *PLOS Global Public Health* 5(9):e0004600
 DOI: [10.1371/journal.pgph.0004600](https://doi.org/10.1371/journal.pgph.0004600)

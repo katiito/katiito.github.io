@@ -749,5 +749,15 @@
       "any_repository_has_fulltext": false
     },
     "openalex_id": "https://openalex.org/W4414465142"
+  },
+  "10.1101/2025.05.16.25327750": {
+    "cited_by_count": 0,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://www.medrxiv.org/content/medrxiv/early/2025/05/16/2025.05.16.25327750.full.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W4410466884"
   }
 }
