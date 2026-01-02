@@ -546,6 +546,53 @@
     "citation-count": 79
   },
   {
+    "id": "atkinsVaccinationOlderAdults2023",
+    "accessed": {
+      "date-parts": [
+        [
+          "2026",
+          1,
+          2
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Atkins",
+        "given": "Katherine E"
+      },
+      {
+        "family": "Hodgson",
+        "given": "David"
+      }
+    ],
+    "citation-key": "atkinsVaccinationOlderAdults2023",
+    "container-title": "Clinical Infectious Diseases",
+    "DOI": "10.1093/cid/ciad162",
+    "ISSN": "1058-4838, 1537-6591",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          "2023",
+          8,
+          14
+        ]
+      ]
+    },
+    "language": "en",
+    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "note": "Original entry: [71]",
+    "page": "490–491",
+    "source": "DOI.org (Crossref)",
+    "title": "Vaccination of Older Adults Against Respiratory Syncytial Virus: The Final Pieces of the Puzzle",
+    "title-short": "Vaccination of Older Adults Against Respiratory Syncytial Virus",
+    "type": "article-journal",
+    "URL": "https://academic.oup.com/cid/article/77/3/490/7084152",
+    "volume": "77",
+    "citation-count": 1
+  },
+  {
     "id": "atkinsVaccinationReduceAntimicrobial2018",
     "author": [
       {
@@ -776,6 +823,84 @@
     "type": "article-journal",
     "URL": "https://www.medrxiv.org/content/medrxiv/early/2022/09/15/2021.07.14.21259809.full.pdf",
     "citation-count": 1
+  },
+  {
+    "id": "baxterReconcilingFounderVariant2024",
+    "abstract": "HIV-1 transmission precipitates a stringent genetic bottleneck, with 75% of new infections initiated by a single genetic variant. Where multiple variants initiate infection, recipient set point viral load (SpVL) and the rate of CD4\n              +\n              T cell decline may be elevated, but these findings remain inconsistent. Here, we summarised the evidence for this phenomenon, then tested whether previous studies possessed sufficient statistical power to reliably identify a true effect of multiple variant infection leading to higher SpVL. Next, we combined models of HIV-1 transmission, heritability and disease progression to understand whether available data suggest a faster CD4\n              +\n              T cell decline would be expected to associated with multiple variant infection, without an explicit dependency between the two. First, we found that most studies had insufficient power to identify a true significant difference, prompting an explanation for previous inconsistencies. Next, our model framework revealed we would not expect to observe a positive association between multiple variant infections and faster CD4\n              +\n              T cell decline, in the absence of an explicit dependency. Consequently, while empirical evidence may be consistent with a positive association between multiple variant infection and faster CD4\n              +\n              T cell decline, further investigation is required to establish a causal basis.",
+    "accessed": {
+      "date-parts": [
+        [
+          "2026",
+          1,
+          2
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Baxter",
+        "given": "James"
+      },
+      {
+        "family": "Villabona-Arenas",
+        "given": "Ch. Julián"
+      },
+      {
+        "family": "Thompson",
+        "given": "Robin N."
+      },
+      {
+        "family": "Hué",
+        "given": "Stéphane"
+      },
+      {
+        "family": "Regoes",
+        "given": "Roland R."
+      },
+      {
+        "family": "Kouyos",
+        "given": "Roger D."
+      },
+      {
+        "family": "Günthard",
+        "given": "Huldrych F."
+      },
+      {
+        "family": "Albert",
+        "given": "Jan"
+      },
+      {
+        "family": "Leigh Brown",
+        "given": "Andrew"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      }
+    ],
+    "citation-key": "baxterReconcilingFounderVariant2024",
+    "container-title": "Journal of The Royal Society Interface",
+    "container-title-short": "J. R. Soc. Interface.",
+    "DOI": "10.1098/rsif.2024.0255",
+    "ISSN": "1742-5689, 1742-5662",
+    "issue": "219",
+    "issued": {
+      "date-parts": [
+        [
+          "2024",
+          10
+        ]
+      ]
+    },
+    "language": "en",
+    "note": "Original entry: [72]",
+    "page": "20240255",
+    "source": "DOI.org (Crossref)",
+    "title": "Reconciling founder variant multiplicity of HIV-1 infection with the rate of CD4<sup>+</sup> decline",
+    "type": "article-journal",
+    "URL": "https://royalsocietypublishing.org/doi/10.1098/rsif.2024.0255",
+    "volume": "21",
+    "citation-count": 0
   },
   {
     "id": "blasselDrugResistanceMutations2021",
@@ -1674,6 +1799,73 @@
     "citation-count": 11
   },
   {
+    "id": "ferrettiBiasedEstimatesPhylogenetic2024",
+    "abstract": "Abstract\n          A standard method in phylogenetic reconstruction for representing variation in substitution rates between sites in the genome is the discrete Gamma model (DGM). Relative rates are assumed to be distributed according to a discretised Gamma distribution, where the probabilities that a site is included in each class are equal. Here, we identify a serious bias in the branch lengths of reconstructed phylogenies when the DGM is used, with the magnitude of the effect varying with the number of sequences in the alignment. We demonstrate the existence of the bias in both simulated dataset and using real HIV-1 sequences; in both cases branch lengths are overestimated. We show that the alternative “FreeRate” model, which assumes no parametric distribution and allows the class probabilities to vary, is not subject to the issue. We further establish that the reason for the behaviour is the equal class probabilities, not the discretisation itself. We explore the mathematics of for the phenomenon, showing how maximum likelihood branch lengths under the DGM may differ from the true ones used to generate the tree, and that branch lengths will be overestimated where there is a long-tail of fast-evolving sites in the true rate distribution, which is the usual situation in real datasets. We recommend that the DGM be retired from general use. While FreeRate is an immediately available replacement, it is known to be difficult to fit, and thus there is scope for innovation in rate heterogeneity models.",
+    "accessed": {
+      "date-parts": [
+        [
+          "2026",
+          1,
+          2
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Ferretti",
+        "given": "Luca"
+      },
+      {
+        "family": "Golubchik",
+        "given": "Tanya"
+      },
+      {
+        "family": "Di Lauro",
+        "given": "Francesco"
+      },
+      {
+        "family": "Ghafari",
+        "given": "Mahan"
+      },
+      {
+        "family": "Villabona-Arenas",
+        "given": "Julian"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Fraser",
+        "given": "Christophe"
+      },
+      {
+        "family": "Hall",
+        "given": "Matthew"
+      }
+    ],
+    "citation-key": "ferrettiBiasedEstimatesPhylogenetic2024",
+    "DOI": "10.1101/2024.08.01.606208",
+    "issued": {
+      "date-parts": [
+        [
+          "2024",
+          8,
+          2
+        ]
+      ]
+    },
+    "language": "en",
+    "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "note": "Original entry: [73]",
+    "publisher": "Evolutionary Biology",
+    "source": "DOI.org (Crossref)",
+    "title": "Biased estimates of phylogenetic branch lengths resulting from the discretised Gamma model of site rate heterogeneity",
+    "type": "article",
+    "URL": "http://biorxiv.org/lookup/doi/10.1101/2024.08.01.606208",
+    "citation-count": 4
+  },
+  {
     "id": "fitzpatrickCosteffectivenessNextgenerationVaccines2016",
     "author": [
       {
@@ -1959,6 +2151,75 @@
     "URL": "https://doi.org/10.1016/j.vaccine.2022.10.041",
     "volume": "40",
     "citation-count": 29
+  },
+  {
+    "id": "hodgsonProtectingInfantsRSV2024",
+    "accessed": {
+      "date-parts": [
+        [
+          "2026",
+          1,
+          2
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Hodgson",
+        "given": "David"
+      },
+      {
+        "family": "Wilkins",
+        "given": "Neil"
+      },
+      {
+        "family": "Van Leeuwen",
+        "given": "Edwin"
+      },
+      {
+        "family": "Watson",
+        "given": "Conall H."
+      },
+      {
+        "family": "Crofts",
+        "given": "Jonathan"
+      },
+      {
+        "family": "Flasche",
+        "given": "Stefan"
+      },
+      {
+        "family": "Jit",
+        "given": "Mark"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      }
+    ],
+    "citation-key": "hodgsonProtectingInfantsRSV2024",
+    "container-title": "The Lancet Regional Health - Europe",
+    "container-title-short": "The Lancet Regional Health - Europe",
+    "DOI": "10.1016/j.lanepe.2023.100829",
+    "ISSN": "26667762",
+    "issued": {
+      "date-parts": [
+        [
+          "2024",
+          3
+        ]
+      ]
+    },
+    "language": "en",
+    "note": "Original entry: [74]",
+    "page": "100829",
+    "source": "DOI.org (Crossref)",
+    "title": "Protecting infants against RSV disease: an impact and cost-effectiveness comparison of long-acting monoclonal antibodies and maternal vaccination",
+    "title-short": "Protecting infants against RSV disease",
+    "type": "article-journal",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S266677622300248X",
+    "volume": "38",
+    "citation-count": 57
   },
   {
     "id": "hollingsworthQuantitativeAnalysesModelling2015",
@@ -4085,8 +4346,7 @@
     "title": "Importance of patient bed pathways and length of stay differences in predicting COVID-19 hospital bed occupancy in England",
     "type": "article-journal",
     "URL": "https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-021-06509-x",
-    "volume": "21",
-    "citation-count": 33
+    "volume": "21"
   },
   {
     "id": "lindseyCharacterisingWithinhospitalSARSCoV22022a",
@@ -4640,6 +4900,78 @@
     "citation-count": 2
   },
   {
+    "id": "mundayEstimatingRiskSpatial2024",
+    "abstract": "Background\n              Measles outbreaks are still routine, even in countries where vaccination coverage exceeds the guideline of 95%. Therefore, achieving ambitions for measles eradication will require understanding of how unvaccinated children interact with others who are unvaccinated. It is well established that schools and homes are key settings for both clustering of unvaccinated children and for transmission of infection. In this study, we evaluate the potential for contacts between unvaccinated children in these contexts to facilitate measles outbreaks with a focus on the Netherlands, where large outbreaks have been observed periodically since the introduction of mumps, measles and rubella (MMR).\n            \n            \n              Methods and findings\n              We created a network of all primary and secondary schools in the Netherlands based on the total number of household pairs between each school. A household pair are siblings from the same household who attend a different school. We parameterised the network with individual level administrative school and household data provided by the Dutch Ministry for Education and estimates of school level uptake of the MMR vaccine. We analysed the network to establish the relative strength of contact between schools and found that schools associated with low vaccine uptake are highly connected, aided by a differentiated school system in the Netherlands (Coleman homophily index (CHI) = 0.63). We simulated measles outbreaks on the network and evaluated the model against empirical measles data per postcode area from a large outbreak in 2013 (2,766 cases). We found that the network-based model could reproduce the observed size and spatial distribution of the historic outbreak much more clearly than the alternative models, with a case weighted receiver operating characteristic (ROC) sensitivity of 0.94, compared to 0.17 and 0.26 for models that do not account for specific network structure or school-level vaccine uptake, respectively. The key limitation of our framework is that it neglects transmission routes outside of school and household contexts.\n            \n            \n              Conclusions\n              Our framework indicates that clustering of unvaccinated children in primary schools connected by unvaccinated children in related secondary schools lead to large, connected clusters of unvaccinated children. Using our approach, we could explain historical outbreaks on a spatial level. Our framework could be further developed to aid future outbreak response.",
+    "accessed": {
+      "date-parts": [
+        [
+          "2026",
+          1,
+          2
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Munday",
+        "given": "James D."
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Klinkenberg",
+        "given": "Don"
+      },
+      {
+        "family": "Meurs",
+        "given": "Marc"
+      },
+      {
+        "family": "Fleur",
+        "given": "Erik"
+      },
+      {
+        "family": "Hahné",
+        "given": "Susan Jm"
+      },
+      {
+        "family": "Wallinga",
+        "given": "Jacco"
+      },
+      {
+        "family": "Jan Van Hoek",
+        "given": "Albert"
+      }
+    ],
+    "citation-key": "mundayEstimatingRiskSpatial2024",
+    "container-title": "PLOS Medicine",
+    "container-title-short": "PLoS Med",
+    "DOI": "10.1371/journal.pmed.1004466",
+    "ISSN": "1549-1676",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          "2024",
+          10,
+          8
+        ]
+      ]
+    },
+    "language": "en",
+    "note": "Original entry: [75]",
+    "page": "e1004466",
+    "source": "DOI.org (Crossref)",
+    "title": "Estimating the risk and spatial spread of measles in populations with high MMR uptake: Using school-household networks to understand the 2013 to 2014 outbreak in the Netherlands",
+    "title-short": "Estimating the risk and spatial spread of measles in populations with high MMR uptake",
+    "type": "article-journal",
+    "URL": "https://dx.plos.org/10.1371/journal.pmed.1004466",
+    "volume": "21",
+    "citation-count": 4
+  },
+  {
     "id": "mundayImplicationsSchoolhouseholdNetwork2021",
     "author": [
       {
@@ -4908,6 +5240,88 @@
     "URL": "https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-018-1152-1",
     "volume": "16",
     "citation-count": 35
+  },
+  {
+    "id": "nakamuraContinuingBeCautious2025",
+    "abstract": "Despite implementing no lockdowns and having a large elderly population, Japan had a low mortality rate due to COVID-19 compared to Europe and North America. The extent to which policies impacted person-to-person contact remains unclear. In this study, we examined changes in contact patterns and their association with behaviors and governmental recommendations in Japan during the pandemic. Ten social contact surveys were conducted between 2021 and 2023 reaching over 1500 participants per survey in Osaka and Fukuoka prefectures where governmental recommendations were first implemented due to high COVID-19 incidence. Their contact patterns were assessed through their demographic characteristics, COVID-19 vaccination status, and individual disease mitigation measures. Generalized linear models were used to identify factors associated with increased contacts. The mean number of contacts during the pandemic declined by at least 49.8% (8.2 weekday contacts and 6.0 weekend contacts per individual, adjusted by age and sex) compared to a study conducted prior to 2020. Weekdays, occupation, larger household sizes, and mask wearing were associated with a higher number of contacts. The frequency and duration of contacts were negatively associated with the issuance of COVID-19 governmental measures, yet the relative change in contacts was not as prominent as pre- and post-lockdown situations in the United Kingdom. There was a gradual increase in contacts with time and less strict public health recommendations. Yet, contacts that did not increase with uptake of COVID-19 vaccination and continuous mask wearing depict cautious behavior across the survey population during the pandemic and into 2023. These results are in contrast with European countries where contacts largely increased among vaccinated individuals compared to the non-vaccinated. Social contacts are country and context specific, highlighting the need for data collection across different communities.",
+    "accessed": {
+      "date-parts": [
+        [
+          "2026",
+          1,
+          2
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Nakamura",
+        "given": "Tomoka"
+      },
+      {
+        "family": "Kinoshita",
+        "given": "Ryo"
+      },
+      {
+        "family": "Endo",
+        "given": "Akira"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Oshitani",
+        "given": "Hitoshi"
+      },
+      {
+        "family": "Ibuka",
+        "given": "Yoko"
+      },
+      {
+        "family": "Suzuki",
+        "given": "Motoi"
+      },
+      {
+        "family": "Ariyoshi",
+        "given": "Koya"
+      },
+      {
+        "family": "O’Reilly",
+        "given": "Kathleen M."
+      }
+    ],
+    "citation-key": "nakamuraContinuingBeCautious2025",
+    "container-title": "PLOS Global Public Health",
+    "container-title-short": "PLOS Glob Public Health",
+    "DOI": "10.1371/journal.pgph.0004600",
+    "editor": [
+      {
+        "family": "Ali,",
+        "given": "Sheikh Taslim"
+      }
+    ],
+    "ISSN": "2767-3375",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          "2025",
+          9,
+          24
+        ]
+      ]
+    },
+    "language": "en",
+    "note": "Original entry: [76]",
+    "page": "e0004600",
+    "source": "DOI.org (Crossref)",
+    "title": "Continuing to be cautious: Japanese contact patterns during the COVID-19 pandemic and their association with public health recommendations",
+    "title-short": "Continuing to be cautious",
+    "type": "article-journal",
+    "URL": "https://dx.plos.org/10.1371/journal.pgph.0004600",
+    "volume": "5",
+    "citation-count": 0
   },
   {
     "id": "ndeffo-mbahCosteffectivenessCommunitybasedIntervention2013",

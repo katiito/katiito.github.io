@@ -689,5 +689,65 @@
       "any_repository_has_fulltext": false
     },
     "openalex_id": "https://openalex.org/W2530369142"
+  },
+  "10.1093/cid/ciad162": {
+    "cited_by_count": 1,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://academic.oup.com/cid/advance-article-pdf/doi/10.1093/cid/ciad162/49599280/ciad162.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W4353112646"
+  },
+  "10.1098/rsif.2024.0255": {
+    "cited_by_count": 0,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1098/rsif.2024.0255",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W4403856085"
+  },
+  "10.1101/2024.08.01.606208": {
+    "cited_by_count": 4,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2024/08/02/2024.08.01.606208.full.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W4401300850"
+  },
+  "10.1016/j.lanepe.2023.100829": {
+    "cited_by_count": 57,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://doi.org/10.1016/j.lanepe.2023.100829",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W4390662601"
+  },
+  "10.1371/journal.pmed.1004466": {
+    "cited_by_count": 4,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://doi.org/10.1371/journal.pmed.1004466",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W4403213075"
+  },
+  "10.1371/journal.pgph.0004600": {
+    "cited_by_count": 0,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://doi.org/10.1371/journal.pgph.0004600",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W4414465142"
   }
 }

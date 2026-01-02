@@ -6,29 +6,41 @@ permalink: /papers/
 
 ***In addition to the listed papers, I am also part of the Centre for Mathematical Modelling of Infectious Diseases COVID-19 Working Group, whose publications are listed [here](https://cmmid.github.io/topics/covid19/).***
 
-### Preprints
+### 2025
 
-[68] **Katherine E. Atkins**, David Hodgson, Mark Jit, Nicholas G. Davies (2022)
-**Evaluating the impact of Respiratory Syncytial Virus immunisation strategies on antibiotic use and drug resistant bacterial infections in England** *Wellcome Open Research* 7:286
-DOI: [10.12688/wellcomeopenres.18183.1](https://doi.org/10.12688/wellcomeopenres.18183.1)
-[Open Access](https://wellcomeopenresearch.org/articles/7-286/v1)
+[76] Tomoka Nakamura, Ryo Kinoshita, Akira Endo, **Katherine E. Atkins**, Hitoshi Oshitani, Yoko Ibuka, Motoi Suzuki, Koya Ariyoshi, Kathleen M. O’Reilly (2025)
+**Continuing to be cautious: Japanese contact patterns during the COVID-19 pandemic and their association with public health recommendations** *PLOS Global Public Health* 5(9):e0004600
+DOI: [10.1371/journal.pgph.0004600](https://doi.org/10.1371/journal.pgph.0004600)
+Citations: 0 | [Open Access](https://dx.plos.org/10.1371/journal.pgph.0004600)
 
-[67] James Baxter, Sarah Langhorne, Ting Shi, Damien C. Tully, Christian Julián Villabona‐Arenas, Stéphane Hué, Jan Albert, Andrew Brown, **Katherine E. Atkins** (2021)
-**Inferring the multiplicity of founder variants initiating HIV-1 infection: a systematic review and individual patient data meta-analysis** *bioRxiv (Cold Spring Harbor Laboratory)*
-DOI: [10.1101/2021.07.14.21259809](https://doi.org/10.1101/2021.07.14.21259809)
-Citations: 1 | [Open Access](https://www.medrxiv.org/content/medrxiv/early/2022/09/15/2021.07.14.21259809.full.pdf)
+### 2024
 
-[63] Christopher J. Banks, Ewan Colman, Thomas Doherty, Oliver Tearne, Mark Arnold, **Katherine E. Atkins**, Daniel Balaz, Gaël Beaunée, Paul R. Bessell, Jessica Enright, Adam Kleczkowski, Gianluigi Rossi, Anne-Sophie Ruget, Rowland R. Kao (2022)
-**SCoVMod – a spatially explicit mobility and deprivation adjusted model of first wave COVID-19 transmission dynamics** *Wellcome Open Research* 7:161
-DOI: [10.12688/wellcomeopenres.17716.1](https://doi.org/10.12688/wellcomeopenres.17716.1)
-Citations: 7 | [Open Access](https://wellcomeopenresearch.org/articles/7-161/v1)
+[75] James D. Munday, **Katherine E. Atkins**, Don Klinkenberg, Marc Meurs, Erik Fleur, Susan Jm Hahné, Jacco Wallinga, Albert Jan Van Hoek (2024)
+**Estimating the risk and spatial spread of measles in populations with high MMR uptake: Using school-household networks to understand the 2013 to 2014 outbreak in the Netherlands** *PLOS Medicine* 21(10):e1004466
+DOI: [10.1371/journal.pmed.1004466](https://doi.org/10.1371/journal.pmed.1004466)
+Citations: 4 | [Open Access](https://dx.plos.org/10.1371/journal.pmed.1004466)
 
-[53] Akira Endo, Centre for the Mathematical Modelling of Infectious Diseases COVID-19 Working Group, Quentin J. Leclerc, Gwenan M. Knight, Graham F. Medley, **Katherine E. Atkins**, Sebastian Funk, Adam J. Kucharski (2021)
-**Implication of backward contact tracing in the presence of overdispersed transmission in COVID-19 outbreaks** *Wellcome Open Research* 5:239
-DOI: [10.12688/wellcomeopenres.16344.3](https://doi.org/10.12688/wellcomeopenres.16344.3)
-Citations: 91 | [Open Access](https://wellcomeopenresearch.org/articles/5-239/v3)
+[74] David Hodgson, Neil Wilkins, Edwin Van Leeuwen, Conall H. Watson, Jonathan Crofts, Stefan Flasche, Mark Jit, **Katherine E. Atkins** (2024)
+**Protecting infants against RSV disease: an impact and cost-effectiveness comparison of long-acting monoclonal antibodies and maternal vaccination** *The Lancet Regional Health - Europe* 38:100829
+DOI: [10.1016/j.lanepe.2023.100829](https://doi.org/10.1016/j.lanepe.2023.100829)
+Citations: 57 | [Open Access](https://linkinghub.elsevier.com/retrieve/pii/S266677622300248X)
+
+[73] Luca Ferretti, Tanya Golubchik, Francesco Di Lauro, Mahan Ghafari, Julian Villabona-Arenas, **Katherine E. Atkins**, Christophe Fraser, Matthew Hall (2024)
+**Biased estimates of phylogenetic branch lengths resulting from the discretised Gamma model of site rate heterogeneity**
+DOI: [10.1101/2024.08.01.606208](https://doi.org/10.1101/2024.08.01.606208)
+Citations: 4 | [Open Access](http://biorxiv.org/lookup/doi/10.1101/2024.08.01.606208)
+
+[72] James Baxter, Ch. Julián Villabona-Arenas, Robin N. Thompson, Stéphane Hué, Roland R. Regoes, Roger D. Kouyos, Huldrych F. Günthard, Jan Albert, Andrew Leigh Brown, **Katherine E. Atkins** (2024)
+**Reconciling founder variant multiplicity of HIV-1 infection with the rate of CD4+ decline** *Journal of The Royal Society Interface* 21(219):20240255
+DOI: [10.1098/rsif.2024.0255](https://doi.org/10.1098/rsif.2024.0255)
+Citations: 0 | [Open Access](https://royalsocietypublishing.org/doi/10.1098/rsif.2024.0255)
 
 ### 2023
+
+[71] **Katherine E Atkins**, David Hodgson (2023)
+**Vaccination of Older Adults Against Respiratory Syncytial Virus: The Final Pieces of the Puzzle** *Clinical Infectious Diseases* 77(3):490–491
+DOI: [10.1093/cid/ciad162](https://doi.org/10.1093/cid/ciad162)
+Citations: 1 | [Open Access](https://academic.oup.com/cid/article/77/3/490/7084152)
 
 [69] Cinthy Jimenez-Silva, Ricardo Rivero, Jordan Douglas, Remco Bouckaert, Ch. Julian Villabona-Arenas, **Katherine E. Atkins**, Bertha Gastelbondo, Alfonso Calderon, Camilo Guzman, Daniel Echeverri-De La Hoz, Marina Muñoz, Nathalia Ballesteros, Sergio Castañeda, Luz H. Patiño, Angie Ramirez, Nicolas Luna, Alberto Paniz-Mondolfi, Hector Serrano-Coll, Juan David Ramirez, Salim Mattar, Alexei J. Drummond (2023)
 **Genomic epidemiology of SARS-CoV-2 variants during the first two years of the pandemic in Colombia** *Communications Medicine* 3(1):97
@@ -41,6 +53,11 @@ Citations: 20 | [Open Access](https://www.nature.com/articles/s43856-023-00328-3
 **Optimal Respiratory Syncytial Virus intervention programmes using Nirsevimab in England and Wales** *Vaccine* 40(49):7151–7157
 DOI: [10.1016/j.vaccine.2022.10.041](https://doi.org/10.1016/j.vaccine.2022.10.041)
 Citations: 29
+
+[68] **Katherine E. Atkins**, David Hodgson, Mark Jit, Nicholas G. Davies (2022)
+**Evaluating the impact of Respiratory Syncytial Virus immunisation strategies on antibiotic use and drug resistant bacterial infections in England** *Wellcome Open Research* 7:286
+DOI: [10.12688/wellcomeopenres.18183.1](https://doi.org/10.12688/wellcomeopenres.18183.1)
+Citations: 0 | [Open Access](https://wellcomeopenresearch.org/articles/7-286/v1)
 
 [66] Akira Endo, Mitsuo Uchida, Yang Liu, **Katherine E. Atkins**, Adam J. Kucharski, Sebastian Funk, Kaja Abbas, Kevin Zandvoort, Nikos I Bosse, Naomi R. Waterlow, Damien C. Tully, Sophie Meakin, Matthew Quaife, Timothy Russell, Mark Jit, Anna M. Foss, Alicia Roselló, Billy J. Quilty, Kiesha Prem, Gwenan M. Knight, Sam Abbott, Petra Klepac, Oliver J. Brady, Carl A. B. Pearson, Graham F. Medley, Samuel Clifford, Christopher I Jarvis, James D Munday, Frank Sandmann, Fiona Yueqian Sun, Thibaut Jombart, Joel Hellewell, Hamish Gibbs, Rosanna C. Barnard, Rosalind M. Eggo, Amy Gimma, Jack Williams, Nicholas G. Davies, Emily Nightingale, Simon R. Procter, W John Edmunds, Alicia Showering, Rachel Lowe, Katharine Sherratt, Christian Julián Villabona‐Arenas, David Simons, Y. Chan, Stefan Flasche (2022)
 **Simulating respiratory disease transmission within and between classrooms to assess pandemic management strategies at schools** *Proceedings of the National Academy of Sciences* 119(37):e2203019119-e2203019119
@@ -57,12 +74,22 @@ Citations: 8
 DOI: [10.3390/v14081673](https://doi.org/10.3390/v14081673)
 Citations: 5 | [Open Access](https://www.mdpi.com/1999-4915/14/8/1673/pdf?version=1659091569)
 
+[63] Christopher J. Banks, Ewan Colman, Thomas Doherty, Oliver Tearne, Mark Arnold, **Katherine E. Atkins**, Daniel Balaz, Gaël Beaunée, Paul R. Bessell, Jessica Enright, Adam Kleczkowski, Gianluigi Rossi, Anne-Sophie Ruget, Rowland R. Kao (2022)
+**SCoVMod – a spatially explicit mobility and deprivation adjusted model of first wave COVID-19 transmission dynamics** *Wellcome Open Research* 7:161
+DOI: [10.12688/wellcomeopenres.17716.1](https://doi.org/10.12688/wellcomeopenres.17716.1)
+Citations: 7 | [Open Access](https://wellcomeopenresearch.org/articles/7-161/v1)
+
 [62] Benjamin B. Lindsey, Christian Julián Villabona‐Arenas, Finlay Campbell, Alexander J. Keeley, Matthew Parker, Dhruv R. Shah, Helena Parsons, Peijun Zhang, Nishchay Kakkar, Marta Gallis, Benjamin H. Foulkes, Paige Wolverson, Stavroula F. Louka, Stella Christou, Amy State, Katie Johnson, Mohammad Raza, Sharon Hsu, Thibaut Jombart, Anne Cori, Dhruv R. Shah, Katie Johnson, Sharon Hsu, Thushan I. Silva, Alison Cope, Nasar Ali, Rasha Raghei, Joe Heffer, Darren Smith, Max Whiteley, Manoj Baliram Pohare, Samantha E. Hansford, Luke R. Green, Dennis Wang, Michael Anckorn, Adrienn Angyal, Rebecca E. Brown, Hailey Hornsby, Mehmet Yavuz, Danielle C. Groves, Paul J. Parsons, Rachel Tucker, Magdalena Dąbrowska, Thomas Saville, José Schutter, Matthew D. Wyles, Cariad Evans, Nicholas G. Davies, Carl A. B. Pearson, Matthew Quaife, Damien C. Tully, Sam Abbott, Cariad Evans, David G. Partridge, **Katherine E. Atkins**, Stéphane Hué, Thushan I. Silva (2022)
 **Characterising within-hospital SARS-CoV-2 transmission events using epidemiological and viral genomic data across two pandemic waves** *Nature Communications* 13(1):671–671
 DOI: [10.1038/s41467-022-28291-y](https://doi.org/10.1038/s41467-022-28291-y)
 Citations: 83 | [Open Access](https://www.nature.com/articles/s41467-022-28291-y.pdf)
 
 ### 2021
+
+[67] James Baxter, Sarah Langhorne, Ting Shi, Damien C. Tully, Christian Julián Villabona‐Arenas, Stéphane Hué, Jan Albert, Andrew Brown, **Katherine E. Atkins** (2021)
+**Inferring the multiplicity of founder variants initiating HIV-1 infection: a systematic review and individual patient data meta-analysis** *bioRxiv (Cold Spring Harbor Laboratory)*
+DOI: [10.1101/2021.07.14.21259809](https://doi.org/10.1101/2021.07.14.21259809)
+Citations: 1 | [Open Access](https://www.medrxiv.org/content/medrxiv/early/2022/09/15/2021.07.14.21259809.full.pdf)
 
 [61] James D Munday, Richard Pebody, **Katherine E. Atkins**, Albert Jan Hoek (2021)
 **Changing socio-economic and ethnic disparities in influenza/A/H1N1 infection early in the 2009 UK epidemic: a descriptive analysis** *BMC Infectious Diseases* 21(1):1243–1243
@@ -87,7 +114,7 @@ Citations: 18 | [Open Access](https://www.research.ed.ac.uk/en/publications/3d45
 [57] Quentin J. Leclerc, Naomi M. Fuller, Ruth H. Keogh, Karla Diaz-Ordaz, Richard Sekula, Malcolm G. Semple, ISARIC4C Investigators, J. Kenneth Baillie, Malcolm G. Semple, Peter J. M. Openshaw, Gail Carson, Beatrice Alex, Benjamin Bach, Wendy S. Barclay, Debby Bogaert, Meera Chand, Graham S. Cooke, Annemarie B. Docherty, Jake Dunning, Ana Da Silva Filipe, Tom Fletcher, Christopher A. Green, Ewen M. Harrison, Julian A. Hiscox, Antonia Ying Wai Ho, Peter W. Horby, Samreen Ijaz, Saye Khoo, Paul Klenerman, Andrew Law, Wei Shen Lim, Alexander J. Mentzer, Laura Merson, Alison M. Meynert, Mahdad Noursadeghi, Shona C. Moore, Massimo Palmarini, William A. Paxton, Georgios Pollakis, Nicholas Price, Andrew Rambaut, David L. Robertson, Clark D. Russell, Vanessa Sancho-Shimizu, Janet T. Scott, Thushan De Silva, Louise Sigfrid, Tom Solomon, Shiranee Sriskandan, David Stuart, Charlotte Summers, Richard S. Tedder, Emma C. Thomson, A. A. Roger Thompson, Ryan S. Thwaites, Lance C. W. Turtle, Maria Zambon, Hayley Hardwick, Chloe Donohue, Ruth Lyons, Fiona Griffiths, Wilna Oosthuyzen, Lisa Norman, Riinu Pius, Tom M. Drake, Cameron J. Fairfield, Stephen Knight, Kenneth A. Mclean, Derek Murphy, Catherine A. Shaw, Jo Dalton, James Lee, Daniel Plotkin, Michelle Girvan, Egle Saviciute, Stephanie Roberts, Janet Harrison, Laura Marsh, Marie Connor, Sophie Halpin, Clare Jackson, Carrol Gamble, Claire Petersen, Scott Mullaney, Gary Leeming, Murray Wham, Sara Clohisey, Ross Hendry, James Scott-Brown, William Greenhalf, Victoria Shaw, Sarah McDonald, Seán Keating, Katie A. Ahmed, Jane A. Armstrong, Milton Ashworth, Innocent G. Asiimwe, Siddharth Bakshi, Samantha L. Barlow, Laura Booth, Benjamin Brennan, Katie Bullock, Benjamin W. A. Catterall, Jordan J. Clark, Emily A. Clarke, Sarah Cole, Louise Cooper, Helen Cox, Christopher Davis, Oslem Dincarslan, Chris Dunn, Philip Dyer, Angela Elliott, Anthony Evans, Lorna Finch, Lewis W. S. Fisher, Terry Foster, Isabel Garcia-Dorival, Philip Gunning, Catherine Hartley, Antonia Ho, Rebecca L. Jensen, Christopher B. Jones, Trevor R. Jones, Shadia Khandaker, Katharine King, Robyn T. Kiy, Chrysa Koukorava, Annette Lake, Suzannah Lant, Diane Latawiec, L. Lavelle-Langham, Daniella Lefteri, Lauren Lett, Lucia A. Livoti, Maria Mancini, Sarah McDonald, Laurence McEvoy, John McLauchlan, Soeren Metelmann, Nahida S. Miah, Joanna Middleton, Joyce Mitchell, Ellen G. Murphy, Rebekah Penrice-Randal, Jack Pilgrim, Tessa Prince, Will Reynolds, P. Matthew Ridley, Debby Sales, Victoria E. Shaw, Rebecca K. Shears, Benjamin Small, Krishanthi S. Subramaniam, Agnieska Szemiel, Aislynn Taggart, Jolanta Tanianis-Hughes, Jordan Thomas, Erwan Trochu, Libby Van Tonder, Eve Wilcock, J. Eunice Zhang, Kayode Adeniji, Daniel Agranoff, Ken Agwuh, Dhiraj Ail, Ana Alegria, Brian Angus, Abdul Ashish, Dougal Atkinson, Shahedal Bari, Gavin Barlow, Stella Barnass, Nicholas Barrett, Christopher Bassford, David Baxter, Michael Beadsworth, Jolanta Bernatoniene, John Berridge, Nicola Best, Pieter Bothma, David Brealey, Robin Brittain-Long, Naomi Bulteel, Tom Burden, Andrew Burtenshaw, Vikki Caruth, David Chadwick, Duncan Chambler, Nigel Chee, Jenny Child, Srikanth Chukkambotla, Tom Clark, Paul Collini, Catherine Cosgrove, Jason Cupitt, Maria-Teresa Cutino-Moguel, Paul Dark, Chris Dawson, Samir Dervisevic, Phil Donnison, Sam Douthwaite, Ingrid DuRand, Ahilanadan Dushianthan, Tristan Dyer, Cariad Evans, Chi Eziefula, Chrisopher Fegan, Adam Finn, Duncan Fullerton, Sanjeev Garg, Sanjeev Garg, Atul Garg, Effrossyni Gkrania-Klotsas, Jo Godden, Arthur Goldsmith, Clive Graham, Elaine Hardy, Stuart Hartshorn, Daniel Harvey, Peter Havalda, Daniel B. Hawcutt, Maria Hobrok, Luke Hodgson, Anil Hormis, Michael Jacobs, Susan Jain, Paul Jennings, Agilan Kaliappan, Vidya Kasipandian, Stephen Kegg, Michael Kelsey, Jason Kendall, Caroline Kerrison, Ian Kerslake, Oliver Koch, Gouri Koduri, George Koshy, Shondipon Laha, Steven Laird, Susan Larkin, Tamas Leiner, Patrick Lillie, James Limb, Vanessa Linnett, Jeff Little, Michael MacMahon, Emily MacNaughton, Ravish Mankregod, Huw Masson, Elijah Matovu, Katherine McCullough, Ruth McEwen, Manjula Meda, Gary Mills, Jane Minton, Mariyam Mirfenderesky, Kavya Mohandas, Quen Mok, James Moon, Elinoor Moore, Patrick Morgan, Craig Morris, Katherine Mortimore, Samuel Moses, Mbiye Mpenge, Rohinton Mulla, Michael Murphy, Megan Nagel, Thapas Nagarajan, Mark Nelson, Igor Otahal, Mark Pais, Selva Panchatsharam, Hassan Paraiso, Brij Patel, Natalie Pattison, Justin Pepperell, Mark Peters, Mandeep Phull, Stefania Pintus, Jagtur Singh Pooni, Frank Post, David Price, Rachel Prout, Nikolas Rae, Henrik Reschreiter, Tim Reynolds, Neil Richardson, Mark Roberts, Devender Roberts, Alistair Rose, Guy Rousseau, Brendan Ryan, Taranprit Saluja, Aarti Shah, Prad Shanmuga, Anil Sharma, Anna Shawcross, Jeremy Sizer, Manu Shankar-Hari, Richard Smith, Catherine Snelson, Nick Spittle, Nikki Staines, Tom Stambach, Richard Stewart, Pradeep Subudhi, Tamas Szakmany, Kate Tatham, Jo Thomas, Chris Thompson, Robert Thompson, Ascanio Tridente, Darell Tupper-Carey, Mary Twagira, Andrew Ustianowski, Nick Vallotton, Lisa Vincent-Smith, Shico Visuvanathan, Alan Vuylsteke, Sam Waddy, Rachel Wake, Andrew Walden, Ingeborg Welters, Tony Whitehouse, Paul Whittaker, Ashley Whittington, Meme Wijesinghe, Martin Williams, Lawrence Wilson, Sarah Wilson, Stephen Winchester, Martin Wiselka, Adam Wolverson, Daniel G. Wooton, Andrew Workman, Bryan Yates, Peter Young, CMMID COVID-19 Working Group, Matthew Quaife, Christopher I. Jarvis, Sophie R. Meakin, Billy J. Quilty, Kiesha Prem, C. Julian Villabona-Arenas, Fiona Yueqian Sun, Kaja Abbas, Megan Auzenbergs, Amy Gimma, Damien C. Tully, Katharine Sherratt, Alicia Rosello, Nicholas G. Davies, Yang Liu, Rachel Lowe, Hamish P. Gibbs, Naomi R. Waterlow, W. John Edmunds, David Simons, Graham Medley, James D. Munday, Stefan Flasche, Frank G. Sandmann, Alicia Showering, Rosalind M. Eggo, Yung-Wai Desmond Chan, Carl A. B. Pearson, Adam J. Kucharski, Anna M. Foss, Timothy W. Russell, Nikos I. Bosse, Mark Jit, Sam Abbott, Jack Williams, Akira Endo, Samuel Clifford, Georgia R. Gore-Langton, Petra Klepac, Oliver Brady, Joel Hellewell, Sebastian Funk, Kevin Van Zandvoort, Rosanna C. Barnard, Emily S. Nightingale, Thibaut Jombart, **Katherine E. Atkins**, Simon R. Procter, Gwenan M. Knight (2021)
 **Importance of patient bed pathways and length of stay differences in predicting COVID-19 hospital bed occupancy in England** *BMC Health Services Research* 21(1):566
 DOI: [10.1186/s12913-021-06509-x](https://doi.org/10.1186/s12913-021-06509-x)
-Citations: 33 | [Open Access](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-021-06509-x)
+[Open Access](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-021-06509-x)
 
 [56] Nicholas G. Davies, Sam Abbott, Rosanna C. Barnard, Christopher I Jarvis, Adam J. Kucharski, James D Munday, Carl A. B. Pearson, Timothy Russell, Damien C. Tully, Alex Washburne, Tom Wenseleers, Amy Gimma, William Waites, Kerry LM Wong, Kevin Zandvoort, Justin D. Silverman, Karla Diaz‐Ordaz, Ruth H. Keogh, Rosalind M. Eggo, Sebastian Funk, Mark Jit, **Katherine E. Atkins**, W. John Edmunds (2021)
 **Estimated transmissibility and impact of SARS-CoV-2 lineage B.1.1.7 in England** *Science* 372(6538)
@@ -98,6 +125,11 @@ Citations: 2557 | [Open Access](https://www.science.org/cms/asset/9064b3e4-39f9-
 **Implications of the school-household network structure on SARS-CoV-2 transmission under school reopening strategies in England** *Nature Communications* 12(1):1942–1942
 DOI: [10.1038/s41467-021-22213-0](https://doi.org/10.1038/s41467-021-22213-0)
 Citations: 40 | [Open Access](https://www.nature.com/articles/s41467-021-22213-0.pdf)
+
+[53] Akira Endo, Centre for the Mathematical Modelling of Infectious Diseases COVID-19 Working Group, Quentin J. Leclerc, Gwenan M. Knight, Graham F. Medley, **Katherine E. Atkins**, Sebastian Funk, Adam J. Kucharski (2021)
+**Implication of backward contact tracing in the presence of overdispersed transmission in COVID-19 outbreaks** *Wellcome Open Research* 5:239
+DOI: [10.12688/wellcomeopenres.16344.3](https://doi.org/10.12688/wellcomeopenres.16344.3)
+Citations: 91 | [Open Access](https://wellcomeopenresearch.org/articles/5-239/v3)
 
 [51] You Li, David Hodgson, Xin Wang, **Katherine E Atkins**, Daniel R Feikin, Harish Nair (2021)
 **Respiratory syncytial virus seasonality and prevention strategy planning for passive immunisation of infants in low-income and middle-income countries: a modelling study** *The Lancet Infectious Diseases* 21(9):1303–1312

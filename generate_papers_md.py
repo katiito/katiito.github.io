@@ -25,7 +25,6 @@ DEFAULT_CONFIG = {
     'show_citations': True,            # Show citation counts
     'show_oa_links': True,             # Show Open Access links
     'max_authors': None,               # None = show all, or int for "et al."
-    'preprint_types': ['manuscript'],  # CSL types to treat as preprints
     'header_note': '***In addition to the listed papers, I am also part of the Centre for Mathematical Modelling of Infectious Diseases COVID-19 Working Group, whose publications are listed [here](https://cmmid.github.io/topics/covid19/).***',
 }
 
@@ -33,16 +32,6 @@ DEFAULT_CONFIG = {
 DEFAULT_INPUT = 'papers_zotero.json'
 DEFAULT_OUTPUT = 'papers.md'
 
-# Preprint server patterns (for container-title matching)
-PREPRINT_SERVERS = [
-    'biorxiv',
-    'medrxiv',
-    'arxiv',
-    'ssrn',
-    'preprints',
-    'research square',
-    'wellcome open research',  # Often has preprint-style articles
-]
 
 
 def load_csl_json(filepath: str) -> list[dict]:
@@ -63,35 +52,6 @@ def extract_entry_number(pub: dict) -> Optional[int]:
     if match:
         return int(match.group(1))
     return None
-
-
-def is_preprint(pub: dict, config: dict) -> bool:
-    """
-    Determine if a publication is a preprint.
-
-    Checks:
-    1. CSL type field (manuscript, etc.)
-    2. Container title for preprint server names
-    3. DOI prefix patterns (10.1101 for biorxiv/medrxiv)
-    """
-    # Check type field
-    pub_type = pub.get('type', '')
-    preprint_types = config.get('preprint_types', ['manuscript'])
-    if pub_type in preprint_types:
-        return True
-
-    # Check container title for preprint servers
-    container = (pub.get('container-title') or '').lower()
-    for server in PREPRINT_SERVERS:
-        if server in container:
-            return True
-
-    # Check DOI prefix (10.1101 is bioRxiv/medRxiv)
-    doi = pub.get('DOI', '')
-    if doi.startswith('10.1101/'):
-        return True
-
-    return False
 
 
 def get_year(pub: dict) -> Optional[int]:
@@ -138,8 +98,8 @@ def format_authors(authors: list[dict], highlight: str = 'Atkins', max_authors: 
         name = format_author_name(author)
         family = author.get('family', '')
 
-        # Bold if matches highlight
-        if highlight and highlight.lower() in family.lower():
+        # Bold if matches highlight (exact match to avoid e.g. "Atkinson" matching "Atkins")
+        if highlight and highlight.lower() == family.lower():
             name = f"**{name}**"
 
         formatted.append(name)
@@ -212,7 +172,7 @@ def format_entry(pub: dict, entry_num: int, config: dict) -> str:
 
     if config.get('show_citations'):
         citations = pub.get('citation-count')
-        if citations:
+        if citations is not None:
             extras.append(f"Citations: {citations}")
 
     if config.get('show_oa_links'):
@@ -226,14 +186,13 @@ def format_entry(pub: dict, entry_num: int, config: dict) -> str:
     return '\n'.join(lines)
 
 
-def group_publications(publications: list[dict], config: dict) -> tuple[list, dict]:
+def group_publications(publications: list[dict]) -> dict:
     """
-    Group publications into preprints and by-year articles.
+    Group publications by year.
 
     Returns:
-        (preprints_list, {year: [pubs]})
+        {year: [pubs]}
     """
-    preprints = []
     by_year = {}
 
     # First pass: extract entry numbers and find max for auto-numbering
@@ -253,14 +212,12 @@ def group_publications(publications: list[dict], config: dict) -> tuple[list, di
 
         year = get_year(pub)
 
-        if is_preprint(pub, config):
-            preprints.append(pub)
-        elif year:
+        if year:
             if year not in by_year:
                 by_year[year] = []
             by_year[year].append(pub)
 
-    return preprints, by_year
+    return by_year
 
 
 def generate_markdown(publications: list[dict], config: dict) -> str:
@@ -280,21 +237,8 @@ def generate_markdown(publications: list[dict], config: dict) -> str:
         output.append(header_note)
         output.append("")
 
-    # Group publications
-    preprints, by_year = group_publications(publications, config)
-
-    # Preprints section
-    if preprints:
-        output.append("### Preprints")
-        output.append("")
-
-        # Sort by entry number (descending)
-        preprints.sort(key=lambda x: x.get('_entry_num', 0), reverse=True)
-
-        for pub in preprints:
-            entry_num = pub.get('_entry_num', 0)
-            output.append(format_entry(pub, entry_num, config))
-            output.append("")
+    # Group publications by year
+    by_year = group_publications(publications)
 
     # Year sections (newest first)
     for year in sorted(by_year.keys(), reverse=True):
