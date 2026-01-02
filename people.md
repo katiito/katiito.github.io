@@ -22,22 +22,22 @@ permalink: /people/
 - ECAT PhD Fellow (Edinburgh University)
 - Co-supervised with Andy Leigh-Brown
 
-**Lynette Bhebhe
+**Lynette Bhebhe**
 - Funded by MRC London Interdiscplinary Doctoral Training Programme
 - Co-supervised with Stéphane Hué
 
 # Past group members**
 
 James Baxter
-PhD candidate (Edinburgh University)
-Funded by MRC in Precision Medicine at University of Edinburgh
-Co-supervised with Andy Leigh-Brown, Stéphane Hué
+- PhD candidate (Edinburgh University)
+- Funded by MRC in Precision Medicine at University of Edinburgh
+- Co-supervised with Andy Leigh-Brown, Stéphane Hué
 
 
 Emma Pujol-Hodge
-PhD candidate (Edinburgh University)
-Funded by Wellcome Trust Hosts, Pathogens and Global Health
-Co-supervised with Andy Leigh-Brown
+- PhD candidate (Edinburgh University)
+- Funded by Wellcome Trust Hosts, Pathogens and Global Health
+- Co-supervised with Andy Leigh-Brown
 
 
 **David Hodgson**
