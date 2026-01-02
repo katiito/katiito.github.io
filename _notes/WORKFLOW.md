@@ -25,6 +25,7 @@ This document describes how to manage and update the publications page on your J
 | `papers_enriched.json` | Zotero data + OpenAlex citation counts |
 | `papers.md` | Generated markdown for Jekyll |
 | `openalex_cache.json` | Cached OpenAlex API responses |
+| `update_papers.sh` | One-command update script |
 | `generate_papers_md.py` | Script to generate papers.md |
 | `enrich_from_openalex.py` | Script to add citation counts |
 
@@ -40,13 +41,15 @@ For legacy compatibility, add `Original entry: [N]` to the Zotero note field whe
 
 ## Updating the Papers Page
 
-### Quick update (no new citation counts)
+### Recommended: Use the update script
 
 ```bash
-python generate_papers_md.py -i papers_zotero.json
+./update_papers.sh
 ```
 
-### Full update with citation counts
+This script enriches with OpenAlex citation counts and regenerates `papers.md`.
+
+### Manual update (full process)
 
 ```bash
 # Step 1: Enrich with OpenAlex citation counts
@@ -56,12 +59,19 @@ python enrich_from_openalex.py
 python generate_papers_md.py -i papers_enriched.json
 ```
 
+### Quick update (no new citation counts)
+
+```bash
+python generate_papers_md.py -i papers_zotero.json
+```
+
 ### Force refresh citation counts
 
 To ignore the cache and fetch fresh data from OpenAlex:
 
 ```bash
 python enrich_from_openalex.py --refresh
+python generate_papers_md.py -i papers_enriched.json
 ```
 
 ## Script Options
@@ -92,13 +102,6 @@ Options:
   --refresh             Ignore cache and fetch fresh data
 ```
 
-## Preprint Detection
-
-Papers are automatically categorised as preprints if any of the following are true:
-- CSL type is `manuscript`
-- Container title contains: biorxiv, medrxiv, arxiv, ssrn, preprints, research square, wellcome open research
-- DOI starts with `10.1101/` (bioRxiv/medRxiv prefix)
-
 ## Troubleshooting
 
 ### Paper not found in OpenAlex
@@ -109,9 +112,9 @@ Some papers may not be found via DOI lookup even if they exist in OpenAlex. In t
 2. Manually add `"citation-count": N` to the paper's entry in `papers_enriched.json`
 3. Re-run `generate_papers_md.py -i papers_enriched.json`
 
-### Wrong author highlighted
+### Author highlighting
 
-The script bolds any author whose family name contains "Atkins". This may incorrectly highlight names like "Atkinson". To fix, modify the `highlight_author` config in `generate_papers_md.py` to use exact matching if needed.
+The script bolds any author whose family name exactly matches "Atkins" (case-insensitive). To change the highlighted author, use the `--highlight` option or modify `highlight_author` in `generate_papers_md.py`.
 
 ## Archived Workflow
 
