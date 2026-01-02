@@ -1,0 +1,693 @@
+{
+  "10.1016/S2213-2600(18)30328-X": {
+    "cited_by_count": 16,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "http://www.thelancet.com/article/S221326001830328X/pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2885530668"
+  },
+  "10.1016/j.vaccine.2012.09.025": {
+    "cited_by_count": 36,
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2027135178"
+  },
+  "10.1093/aje/kwv347": {
+    "cited_by_count": 46,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://academic.oup.com/aje/article-pdf/183/12/1159/17343202/kwv347.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2356058348"
+  },
+  "10.1016/j.epidem.2013.10.001": {
+    "cited_by_count": 27,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1016/j.epidem.2013.10.001",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2160114307"
+  },
+  "10.1098/rsif.2013.0331": {
+    "cited_by_count": 4,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2013.0331",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2073350874"
+  },
+  "10.12688/wellcomeopenres.18183.1": {
+    "cited_by_count": 0,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://doi.org/10.12688/wellcomeopenres.18183.1",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W4309923993"
+  },
+  "10.1016/j.vaccine.2011.11.064": {
+    "cited_by_count": 59,
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2041037964"
+  },
+  "10.1016/j.jtbi.2010.07.014": {
+    "cited_by_count": 228,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://hal.science/hal-00616258",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2039095467"
+  },
+  "10.1186/1746-6148-7-70": {
+    "cited_by_count": 30,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://bmcvetres.biomedcentral.com/counter/pdf/10.1186/1746-6148-7-70",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2090274807"
+  },
+  "10.1136/bmjopen-2015-009739": {
+    "cited_by_count": 50,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://bmjopen.bmj.com/content/bmjopen/6/2/e009739.full.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2283082432"
+  },
+  "10.1136/bmj.h1115": {
+    "cited_by_count": 41,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://www.bmj.com/content/bmj/350/bmj.h1115.full.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2047106217"
+  },
+  "10.1016/S1473-3099(17)30478-4": {
+    "cited_by_count": 79,
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2771011086"
+  },
+  "10.1016/s2214-109x(18)30043-3": {
+    "cited_by_count": 24,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "http://www.thelancet.com/article/S2214109X18300433/pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2785957724"
+  },
+  "10.1111/j.1558-5646.2012.01803.x": {
+    "cited_by_count": 110,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://academic.oup.com/evolut/article-pdf/67/3/851/49952415/evolut0851.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W1907205561"
+  },
+  "10.12688/wellcomeopenres.17716.1": {
+    "cited_by_count": 7,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://wellcomeopenresearch.org/articles/7-161/v1/pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W4281555580"
+  },
+  "10.1101/2021.07.14.21259809": {
+    "cited_by_count": 1,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://www.medrxiv.org/content/medrxiv/early/2022/09/15/2021.07.14.21259809.full.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W3185411390"
+  },
+  "10.1016/j.coviro.2021.09.009": {
+    "cited_by_count": 48,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1016/j.coviro.2021.09.009",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W3202242963"
+  },
+  "10.1111/nyas.12211": {
+    "cited_by_count": 58,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://zenodo.org/record/3437141",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2113266537"
+  },
+  "10.1016/s2214-109x(18)30230-4": {
+    "cited_by_count": 246,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "http://www.thelancet.com/article/S2214109X18302304/pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2799902886"
+  },
+  "10.1371/journal.pbio.3000105": {
+    "cited_by_count": 70,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3000105&type=printable",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2911168337"
+  },
+  "10.3201/eid2601.191110": {
+    "cited_by_count": 7,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "diamond",
+      "oa_url": "https://wwwnc.cdc.gov/eid/article/26/1/pdfs/19-1110.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2978303359"
+  },
+  "10.1098/rstb.2016.0292": {
+    "cited_by_count": 2,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2016.0292",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2607176114"
+  },
+  "10.1126/science.abg3055": {
+    "cited_by_count": 2557,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://www.science.org/cms/asset/9064b3e4-39f9-402c-8fa2-b689efda98b4/pap.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W3134208712"
+  },
+  "10.1126/scitranslmed.aaz8690": {
+    "cited_by_count": 18,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://www.research.ed.ac.uk/en/publications/3d45ff0b-a186-42fd-9ea7-da58c37de0cc",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W3188114560"
+  },
+  "10.1038/s41559-018-0786-x": {
+    "cited_by_count": 104,
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2903079617"
+  },
+  "10.1073/pnas.2112605118": {
+    "cited_by_count": 26,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://www.pnas.org/content/pnas/118/46/e2112605118.full.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W3212086250"
+  },
+  "10.12688/wellcomeopenres.16344.3": {
+    "cited_by_count": 91,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://doi.org/10.12688/wellcomeopenres.16344.3",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W3093037069"
+  },
+  "10.1073/pnas.2203019119": {
+    "cited_by_count": 11,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://pnas.org/doi/full/10.1073/pnas.2203019119",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W4295088242"
+  },
+  "10.1016/j.vaccine.2016.04.010": {
+    "cited_by_count": 4,
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2339282279"
+  },
+  "10.1093/infdis/jiy344": {
+    "cited_by_count": 22,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://academic.oup.com/jid/article-pdf/218/9/1351/25823703/jiy344.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2806553547"
+  },
+  "10.1016/s2468-2667(16)30044-5": {
+    "cited_by_count": 49,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "http://www.thelancet.com/article/S2468266716300445/pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2569586949"
+  },
+  "10.1111/irv.12686": {
+    "cited_by_count": 40,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/irv.12686",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2980647784"
+  },
+  "10.1186/s12916-020-01802-8": {
+    "cited_by_count": 76,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://bmcmedicine.biomedcentral.com/track/pdf/10.1186/s12916-020-01802-8",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W3100996326"
+  },
+  "10.1016/j.vaccine.2022.10.041": {
+    "cited_by_count": 29,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1016/j.vaccine.2022.10.041",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W4307896714"
+  },
+  "10.1186/s13071-015-1235-1": {
+    "cited_by_count": 90,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://parasitesandvectors.biomedcentral.com/track/pdf/10.1186/s13071-015-1235-1",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2190276977"
+  },
+  "10.1136/jech-2015-205777": {
+    "cited_by_count": 108,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://jech.bmj.com/content/jech/70/2/162.full.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2267558281"
+  },
+  "10.1038/s43856-023-00328-3": {
+    "cited_by_count": 20,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.nature.com/articles/s43856-023-00328-3.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W4384155205"
+  },
+  "10.1186/s12916-020-1507-2": {
+    "cited_by_count": 92,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://bmcmedicine.biomedcentral.com/track/pdf/10.1186/s12916-020-1507-2",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W3012172695"
+  },
+  "10.1186/s12879-019-4630-y": {
+    "cited_by_count": 59,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://bmcinfectdis.biomedcentral.com/track/pdf/10.1186/s12879-019-4630-y",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2991602796"
+  },
+  "10.1186/s12913-021-06509-x": null,
+  "10.1038/s41467-022-28291-y": {
+    "cited_by_count": 83,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.nature.com/articles/s41467-022-28291-y.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W4210546120"
+  },
+  "10.1016/S1473-3099(20)30703-9": {
+    "cited_by_count": 64,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1016/s1473-3099(20)30703-9",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W3157348070"
+  },
+  "10.1371/journal.pone.0159780": {
+    "cited_by_count": 90,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0159780&type=printable",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2482537185"
+  },
+  "10.1016/j.socscimed.2019.03.025": {
+    "cited_by_count": 32,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://www.pure.ed.ac.uk/ws/files/82239215/AAM_Quantifying_the_publics_view_on_social_value....pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2924723274"
+  },
+  "10.1093/cid/ciy280": {
+    "cited_by_count": 20,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://academic.oup.com/cid/article-pdf/67/8/1205/25849324/ciy280.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2795795176"
+  },
+  "10.1371/journal.pntd.0002374": {
+    "cited_by_count": 37,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0002374&type=printable",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2140660394"
+  },
+  "10.1186/s12879-021-06936-5": {
+    "cited_by_count": 2,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://bmcinfectdis.biomedcentral.com/counter/pdf/10.1186/s12879-021-06936-5",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W4200001054"
+  },
+  "10.1038/s41467-021-22213-0": {
+    "cited_by_count": 40,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.nature.com/articles/s41467-021-22213-0.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W3147662516"
+  },
+  "10.1186/s12916-018-1152-1": {
+    "cited_by_count": 35,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://bmcmedicine.biomedcentral.com/track/pdf/10.1186/s12916-018-1152-1",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2889156244"
+  },
+  "10.1073/pnas.1221396110": {
+    "cited_by_count": 37,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://www.pnas.org/content/pnas/110/19/7952.full.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2102038090"
+  },
+  "10.1371/journal.pntd.0007903": {
+    "cited_by_count": 12,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0007903&type=printable",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2991931314"
+  },
+  "10.1371/journal.pntd.0002346": {
+    "cited_by_count": 35,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0002346&type=printable",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2033574155"
+  },
+  "10.1186/s13071-015-1121-x": {
+    "cited_by_count": 51,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://parasitesandvectors.biomedcentral.com/track/pdf/10.1186/s13071-015-1121-x",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2103178642"
+  },
+  "10.1126/science.1260612": {
+    "cited_by_count": 309,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "http://doi.org/10.1126/science.1260612",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W1975132434"
+  },
+  "10.1098/rstb.2017.0020": {
+    "cited_by_count": 11,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2017.0020",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2606071392"
+  },
+  "10.1371/journal.pone.0042320": {
+    "cited_by_count": 74,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0042320&type=printable",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2139454171"
+  },
+  "10.3390/v14081673": {
+    "cited_by_count": 5,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.mdpi.com/1999-4915/14/8/1673/pdf?version=1659091569",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W4289529839"
+  },
+  "10.1016/j.epidem.2017.01.006": {
+    "cited_by_count": 41,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://doi.org/10.1016/j.epidem.2017.01.006",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2591856223"
+  },
+  "10.1371/journal.ppat.1004092": {
+    "cited_by_count": 22,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://journals.plos.org/plospathogens/article/file?id=10.1371/journal.ppat.1004092&type=printable",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2061827766"
+  },
+  "10.4269/ajtmh.15-0556": {
+    "cited_by_count": 46,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "http://www.ajtmh.org/deliver/fulltext/14761645/94/2/365.pdf?itemId=%2Fcontent%2Fjournals%2F10.4269%2Fajtmh.15-0556&mimeType=pdf&containerItemId=content/journals/14761645",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2181651743"
+  },
+  "10.1177/0272989x15591007": {
+    "cited_by_count": 20,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "http://doi.org/10.1177/0272989X15591007",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W1569258143"
+  },
+  "10.1016/j.vaccine.2016.11.057": {
+    "cited_by_count": 59,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1016/j.vaccine.2016.11.057",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2563450837"
+  },
+  "10.1126/science.aba5443": {
+    "cited_by_count": 12,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7116289",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W3036613810"
+  },
+  "10.1073/pnas.2210604119": {
+    "cited_by_count": 8,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1073/pnas.2210604119",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W4295706190"
+  },
+  "10.1371/journal.pntd.0003888": {
+    "cited_by_count": 2,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0003888&type=printable",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2236305813"
+  },
+  "10.1016/j.vaccine.2020.10.007": {
+    "cited_by_count": 7,
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W3108786917"
+  },
+  "10.1016/j.tmaid.2020.101823": {
+    "cited_by_count": 25,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://researchonline.lshtm.ac.uk/id/eprint/4657707/1/Abx%20during%20travel%20and%20ESBL-PE%20SR%20and%20MA%20-%20TMAID%20-%20Rev%20Mar%2016%202020_combined.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W3046370731"
+  },
+  "10.1016/j.jval.2016.05.011": {
+    "cited_by_count": 13,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "http://www.valueinhealthjournal.com/article/S1098301516305022/pdf",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2497594516"
+  },
+  "10.1186/s12916-020-01545-6": {
+    "cited_by_count": 49,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://bmcmedicine.biomedcentral.com/track/pdf/10.1186/s12916-020-01545-6",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W3015391718"
+  },
+  "10.1016/j.vaccine.2016.10.013": {
+    "cited_by_count": 201,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1016/j.vaccine.2016.10.013",
+      "any_repository_has_fulltext": false
+    },
+    "openalex_id": "https://openalex.org/W2530369142"
+  }
+}
