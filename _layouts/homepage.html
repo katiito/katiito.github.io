@@ -58,7 +58,7 @@ layout: default
       <h1><font color=#828282>News</font></h1><hr>
       {% for item in site.data.news %}
         <h4>{{ item.date }}</h4>
-        <p>{{ item.descrip }}</p>
+        {{ item.descrip | markdownify }}
       {% endfor %}
     </div>
 
