@@ -1,6 +1,40 @@
 ---
 layout: default
 ---
+<style>
+  .profile-section {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+  }
+  .profile-pic {
+    flex-shrink: 0;
+  }
+  .profile-pic img {
+    max-width: 270px;
+    height: auto;
+  }
+  .profile-blurb {
+    flex: 1;
+    min-width: 250px;
+  }
+  @media (max-width: 600px) {
+    .profile-section {
+      flex-direction: column;
+      align-items: center;
+    }
+    .profile-pic img {
+      max-width: 100%;
+      width: 270px;
+    }
+    .profile-blurb {
+      width: 100%;
+    }
+  }
+</style>
+
 <article class="post">
 
   <header class="post-header">
@@ -9,45 +43,25 @@ layout: default
 
   <div class="post-content">
 
-<!--TOP LEVEL FLEX BOX with left (pic, blurb, news) and right (twitter) -->
-<div style="display:flex; justify-content:left; align-items:top;">
-	
-	<!-- %%%%%%%%%%%%%%%%%%%%%%%%%% -->
-	<!-- SECOND FLEX (pic+blurb, news) -->
-	<!-- %%%%%%%%%%%%%%%%%%%%%%%%%% -->
+    <!-- Profile: pic + blurb -->
+    <div class="profile-section">
+      <div class="profile-pic">
+        <img src="profile_pic.jpg" alt="KEA">
+      </div>
+      <div class="profile-blurb">
+        {{ content }}
+      </div>
+    </div>
 
-	<div style="display:flex; flex-direction: column; justify-content:center; align-items:top;"> 
-		
-		<!-- %%%%%%%%%%%%%%%%%%%%%%%%%% -->
-		<!-- THIRD FLEX (pic, blurb) -->
-		<!-- %%%%%%%%%%%%%%%%%%%%%%%%%% -->
-		<div style="display:flex; justify-content:center; align-items:top;"> 
-			<!-- pic -->
-			<div style="margin: 0px 1rem;">
-				<!-- <img src="{{site.url}}/profile_pic.jpg" height="300" width="270" alt="KEA" style="max-width:inherit;"> -->
-				<img src="profile_pic.jpg" height="300" width="270" alt="KEA" style="max-width:inherit;">
-			</div>	
-			<!-- blurb -->
-			<div style="margin: 0px 1rem;">
-				{{ content }}
-			</div>
-		</div>	
+    <!-- News -->
+    <div>
+      <h1><font color=#828282>News</font></h1><hr>
+      {% for item in site.data.news %}
+        <h4>{{ item.date }}</h4>
+        <p>{{ item.descrip }}</p>
+      {% endfor %}
+    </div>
 
-		<!--(news) -->
-		<div>
-				<h1><font color=#828282>News</font></h1><hr>
-				{% for item in site.data.news %}
-		 				<h4>{{ item.date }}</h4>
-		 				<p>{{ item.descrip }}</p>	
-		 		{% endfor %}
-		</div>
-
-	</div>
-
-</div> 	
- 
-
-
-  	</div>  <!-- END POST-CONTENT -->
+  </div>  <!-- END POST-CONTENT -->
 
 </article>
