@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "hodgson2022optimal",
+    "type": "article-journal",
+    "title": "Optimal Respiratory Syncytial Virus intervention programmes using Nirsevimab in England and Wales",
+    "author": [
+      {
+        "family": "Hodgson",
+        "given": "David"
+      },
+      {
+        "family": "Koltai",
+        "given": "Mihály"
+      },
+      {
+        "family": "Krauer",
+        "given": "Fabienne"
+      },
+      {
+        "family": "Flasche",
+        "given": "Stefan"
+      },
+      {
+        "family": "Jit",
+        "given": "Mark"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "container-title": "Vaccine",
+    "DOI": "10.1016/j.vaccine.2022.10.041",
+    "volume": "40",
+    "issue": "49",
+    "page": "7151-7157",
+    "URL": "https://doi.org/10.1016/j.vaccine.2022.10.041",
+    "citation-count": 29,
+    "note": "Original entry: [70]"
+  },
+  {
+    "id": "jiménez-silva2022genomic",
+    "type": "manuscript",
+    "title": "Genomic epidemiology of circulating SARS-CoV-2 variants during first two years of the pandemic in Colombia",
+    "author": [
+      {
+        "family": "Jiménez-Silva",
+        "given": "Cinthy L."
+      },
+      {
+        "family": "Rivero",
+        "given": "Ricardo"
+      },
+      {
+        "family": "Douglas",
+        "given": "Jordan"
+      },
+      {
+        "family": "Bouckaert",
+        "given": "Remco"
+      },
+      {
+        "family": "Villabona-Arenas",
+        "given": "Julian"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Gastelbondo",
+        "given": "Bertha"
+      },
+      {
+        "family": "Calderón",
+        "given": "Alfonso"
+      },
+      {
+        "family": "Guzmán",
+        "given": "Camilo"
+      },
+      {
+        "family": "Hoz",
+        "given": "Daniel Echeverri-De la"
+      },
+      {
+        "family": "Muñoz",
+        "given": "Marina"
+      },
+      {
+        "family": "Ballesteros",
+        "given": "Nathalia"
+      },
+      {
+        "family": "Castañeda",
+        "given": "Sergio"
+      },
+      {
+        "family": "Patiño",
+        "given": "Luz Helena"
+      },
+      {
+        "family": "Ramírez",
+        "given": "Angie"
+      },
+      {
+        "family": "Luna",
+        "given": "Nicolás"
+      },
+      {
+        "family": "Paniz‐Mondolfi",
+        "given": "Alberto"
+      },
+      {
+        "family": "Serrano‐Coll",
+        "given": "Héctor"
+      },
+      {
+        "family": "Ramírez",
+        "given": "Juan David"
+      },
+      {
+        "family": "Mattár",
+        "given": "Salim"
+      },
+      {
+        "family": "Drummond",
+        "given": "Alexei J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "container-title": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "DOI": "10.1101/2022.06.20.22275744",
+    "URL": "https://www.medrxiv.org/content/medrxiv/early/2022/06/21/2022.06.20.22275744.full.pdf",
+    "citation-count": 6,
+    "note": "Original entry: [69]"
+  },
+  {
+    "id": "atkins2021evaluating",
+    "type": "manuscript",
+    "title": "Evaluating the impact of RSV immunisation strategies on antibiotic use in England",
+    "author": [
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Hodgson",
+        "given": "David"
+      },
+      {
+        "family": "Jit",
+        "given": "Mark"
+      },
+      {
+        "family": "Davies",
+        "given": "Nicholas G."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "DOI": "10.1101/2021.11.08.21266072",
+    "URL": "https://www.medrxiv.org/content/medrxiv/early/2022/01/26/2021.11.08.21266072.full.pdf",
+    "note": "Original entry: [68]"
+  },
+  {
+    "id": "baxter2021inferring",
+    "type": "article-journal",
+    "title": "Inferring the multiplicity of founder variants initiating HIV-1 infection: a systematic review and individual patient data meta-analysis",
+    "author": [
+      {
+        "family": "Baxter",
+        "given": "James"
+      },
+      {
+        "family": "Langhorne",
+        "given": "Sarah"
+      },
+      {
+        "family": "Shi",
+        "given": "Ting"
+      },
+      {
+        "family": "Tully",
+        "given": "Damien C."
+      },
+      {
+        "family": "Villabona‐Arenas",
+        "given": "Christian Julián"
+      },
+      {
+        "family": "Hué",
+        "given": "Stéphane"
+      },
+      {
+        "family": "Albert",
+        "given": "Jan"
+      },
+      {
+        "family": "Brown",
+        "given": "Andrew"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "DOI": "10.1101/2021.07.14.21259809",
+    "URL": "https://www.medrxiv.org/content/medrxiv/early/2022/09/15/2021.07.14.21259809.full.pdf",
+    "citation-count": 1,
+    "note": "Original entry: [67]"
+  },
+  {
+    "id": "endo2022simulating",
+    "type": "article-journal",
+    "title": "Simulating respiratory disease transmission within and between classrooms to assess pandemic management strategies at schools",
+    "author": [
+      {
+        "family": "Endo",
+        "given": "Akira"
+      },
+      {
+        "family": "Uchida",
+        "given": "Mitsuo"
+      },
+      {
+        "family": "Liu",
+        "given": "Yang"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Kucharski",
+        "given": "Adam J."
+      },
+      {
+        "family": "Funk",
+        "given": "Sebastian"
+      },
+      {
+        "family": "Abbas",
+        "given": "Kaja"
+      },
+      {
+        "family": "Zandvoort",
+        "given": "Kevin van"
+      },
+      {
+        "family": "Bosse",
+        "given": "Nikos I"
+      },
+      {
+        "family": "Waterlow",
+        "given": "Naomi R."
+      },
+      {
+        "family": "Tully",
+        "given": "Damien C."
+      },
+      {
+        "family": "Meakin",
+        "given": "Sophie"
+      },
+      {
+        "family": "Quaife",
+        "given": "Matthew"
+      },
+      {
+        "family": "Russell",
+        "given": "Timothy"
+      },
+      {
+        "family": "Jit",
+        "given": "Mark"
+      },
+      {
+        "family": "Foss",
+        "given": "Anna M."
+      },
+      {
+        "family": "Roselló",
+        "given": "Alicia"
+      },
+      {
+        "family": "Quilty",
+        "given": "Billy J."
+      },
+      {
+        "family": "Prem",
+        "given": "Kiesha"
+      },
+      {
+        "family": "Knight",
+        "given": "Gwenan M."
+      },
+      {
+        "family": "Abbott",
+        "given": "Sam"
+      },
+      {
+        "family": "Klepac",
+        "given": "Petra"
+      },
+      {
+        "family": "Brady",
+        "given": "Oliver J."
+      },
+      {
+        "family": "Pearson",
+        "given": "Carl A. B."
+      },
+      {
+        "family": "Medley",
+        "given": "Graham F."
+      },
+      {
+        "family": "Clifford",
+        "given": "Samuel"
+      },
+      {
+        "family": "Jarvis",
+        "given": "Christopher I"
+      },
+      {
+        "family": "Munday",
+        "given": "James D"
+      },
+      {
+        "family": "Sandmann",
+        "given": "Frank"
+      },
+      {
+        "family": "Sun",
+        "given": "Fiona Yueqian"
+      },
+      {
+        "family": "Jombart",
+        "given": "Thibaut"
+      },
+      {
+        "family": "Hellewell",
+        "given": "Joel"
+      },
+      {
+        "family": "Gibbs",
+        "given": "Hamish"
+      },
+      {
+        "family": "Barnard",
+        "given": "Rosanna C."
+      },
+      {
+        "family": "Eggo",
+        "given": "Rosalind M."
+      },
+      {
+        "family": "Gimma",
+        "given": "Amy"
+      },
+      {
+        "family": "Williams",
+        "given": "Jack"
+      },
+      {
+        "family": "Davies",
+        "given": "Nicholas G."
+      },
+      {
+        "family": "Nightingale",
+        "given": "Emily"
+      },
+      {
+        "family": "Procter",
+        "given": "Simon R."
+      },
+      {
+        "family": "Edmunds",
+        "given": "W John"
+      },
+      {
+        "family": "Showering",
+        "given": "Alicia"
+      },
+      {
+        "family": "Lowe",
+        "given": "Rachel"
+      },
+      {
+        "family": "Sherratt",
+        "given": "Katharine"
+      },
+      {
+        "family": "Villabona‐Arenas",
+        "given": "Christian Julián"
+      },
+      {
+        "family": "Simons",
+        "given": "David"
+      },
+      {
+        "family": "Chan",
+        "given": "Y."
+      },
+      {
+        "family": "Flasche",
+        "given": "Stefan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "container-title": "Proceedings of the National Academy of Sciences",
+    "DOI": "10.1073/pnas.2203019119",
+    "volume": "119",
+    "issue": "37",
+    "page": "e2203019119-e2203019119",
+    "URL": "https://pnas.org/doi/full/10.1073/pnas.2203019119",
+    "citation-count": 11,
+    "note": "Original entry: [66]"
+  },
+  {
+    "id": "villabona‐arenas2022using",
+    "type": "article-journal",
+    "title": "Using phylogenetics to infer HIV-1 transmission direction between known transmission pairs",
+    "author": [
+      {
+        "family": "Villabona‐Arenas",
+        "given": "Christian Julián"
+      },
+      {
+        "family": "Hué",
+        "given": "Stéphane"
+      },
+      {
+        "family": "Baxter",
+        "given": "James"
+      },
+      {
+        "family": "Hall",
+        "given": "Matthew"
+      },
+      {
+        "family": "Lythgoe",
+        "given": "Katrina"
+      },
+      {
+        "family": "Bradley",
+        "given": "John"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "container-title": "Proceedings of the National Academy of Sciences",
+    "DOI": "10.1073/pnas.2210604119",
+    "volume": "119",
+    "issue": "38",
+    "page": "e2210604119-e2210604119",
+    "URL": "https://doi.org/10.1073/pnas.2210604119",
+    "citation-count": 8,
+    "note": "Original entry: [65]"
+  },
+  {
+    "id": "pujol-hodge2022detection",
+    "type": "article-journal",
+    "title": "Detection of HIV-1 Transmission Clusters from Dried Blood Spots within a Universal Test-and-Treat Trial in East Africa",
+    "author": [
+      {
+        "family": "Pujol-Hodge",
+        "given": "Emma"
+      },
+      {
+        "family": "Salazar-Gonzalez",
+        "given": "Jesus F."
+      },
+      {
+        "family": "Ssemwanga",
+        "given": "Deogratius"
+      },
+      {
+        "family": "Charlebois",
+        "given": "Edwin D."
+      },
+      {
+        "family": "Ayieko",
+        "given": "James"
+      },
+      {
+        "family": "Grant",
+        "given": "Heather E."
+      },
+      {
+        "family": "Liegler",
+        "given": "Teri"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Kaleebu",
+        "given": "Pontiano"
+      },
+      {
+        "family": "Kamya",
+        "given": "Moses R."
+      },
+      {
+        "family": "Petersen",
+        "given": "Maya"
+      },
+      {
+        "family": "Havlir",
+        "given": "Diane V."
+      },
+      {
+        "family": "Brown",
+        "given": "Andrew"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "container-title": "Viruses",
+    "DOI": "10.3390/v14081673",
+    "volume": "14",
+    "issue": "8",
+    "page": "1673-1673",
+    "URL": "https://www.mdpi.com/1999-4915/14/8/1673/pdf?version=1659091569",
+    "citation-count": 5,
+    "note": "Original entry: [64]"
+  },
+  {
+    "id": "zachreson2022referee",
+    "type": "article-journal",
+    "title": "Referee report. For: SCoVMod – a spatially explicit mobility and deprivation adjusted model of first wave COVID-19 transmission dynamics [version 1; peer review: 2 approved]",
+    "author": [
+      {
+        "family": "Zachreson",
+        "given": "Cameron"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "container-title": "Faculty of 1000 Research Ltd",
+    "DOI": "10.21956/wellcomeopenres.19604.r50789",
+    "URL": "https://doi.org/10.21956/wellcomeopenres.19604.r50789",
+    "note": "Original entry: [63]"
+  },
+  {
+    "id": "lindsey2022characteri",
+    "type": "article-journal",
+    "title": "Characterising within-hospital SARS-CoV-2 transmission events using epidemiological and viral genomic data across two pandemic waves",
+    "author": [
+      {
+        "family": "Lindsey",
+        "given": "Benjamin B."
+      },
+      {
+        "family": "Villabona‐Arenas",
+        "given": "Christian Julián"
+      },
+      {
+        "family": "Campbell",
+        "given": "Finlay"
+      },
+      {
+        "family": "Keeley",
+        "given": "Alexander J."
+      },
+      {
+        "family": "Parker",
+        "given": "Matthew"
+      },
+      {
+        "family": "Shah",
+        "given": "Dhruv R."
+      },
+      {
+        "family": "Parsons",
+        "given": "Helena"
+      },
+      {
+        "family": "Zhang",
+        "given": "Peijun"
+      },
+      {
+        "family": "Kakkar",
+        "given": "Nishchay"
+      },
+      {
+        "family": "Gallis",
+        "given": "Marta"
+      },
+      {
+        "family": "Foulkes",
+        "given": "Benjamin H."
+      },
+      {
+        "family": "Wolverson",
+        "given": "Paige"
+      },
+      {
+        "family": "Louka",
+        "given": "Stavroula F."
+      },
+      {
+        "family": "Christou",
+        "given": "Stella"
+      },
+      {
+        "family": "State",
+        "given": "Amy"
+      },
+      {
+        "family": "Johnson",
+        "given": "Katie"
+      },
+      {
+        "family": "Raza",
+        "given": "Mohammad"
+      },
+      {
+        "family": "Hsu",
+        "given": "Sharon"
+      },
+      {
+        "family": "Jombart",
+        "given": "Thibaut"
+      },
+      {
+        "family": "Cori",
+        "given": "Anne"
+      },
+      {
+        "family": "Shah",
+        "given": "Dhruv R."
+      },
+      {
+        "family": "Johnson",
+        "given": "Katie"
+      },
+      {
+        "family": "Hsu",
+        "given": "Sharon"
+      },
+      {
+        "family": "Silva",
+        "given": "Thushan I. de"
+      },
+      {
+        "family": "Cope",
+        "given": "Alison"
+      },
+      {
+        "family": "Ali",
+        "given": "Nasar"
+      },
+      {
+        "family": "Raghei",
+        "given": "Rasha"
+      },
+      {
+        "family": "Heffer",
+        "given": "Joe"
+      },
+      {
+        "family": "Smith",
+        "given": "Darren"
+      },
+      {
+        "family": "Whiteley",
+        "given": "Max"
+      },
+      {
+        "family": "Pohare",
+        "given": "Manoj Baliram"
+      },
+      {
+        "family": "Hansford",
+        "given": "Samantha E."
+      },
+      {
+        "family": "Green",
+        "given": "Luke R."
+      },
+      {
+        "family": "Wang",
+        "given": "Dennis"
+      },
+      {
+        "family": "Anckorn",
+        "given": "Michael"
+      },
+      {
+        "family": "Angyal",
+        "given": "Adrienn"
+      },
+      {
+        "family": "Brown",
+        "given": "Rebecca E."
+      },
+      {
+        "family": "Hornsby",
+        "given": "Hailey"
+      },
+      {
+        "family": "Yavuz",
+        "given": "Mehmet"
+      },
+      {
+        "family": "Groves",
+        "given": "Danielle C."
+      },
+      {
+        "family": "Parsons",
+        "given": "Paul J."
+      },
+      {
+        "family": "Tucker",
+        "given": "Rachel"
+      },
+      {
+        "family": "Dąbrowska",
+        "given": "Magdalena"
+      },
+      {
+        "family": "Saville",
+        "given": "Thomas"
+      },
+      {
+        "family": "Schutter",
+        "given": "José"
+      },
+      {
+        "family": "Wyles",
+        "given": "Matthew D."
+      },
+      {
+        "family": "Evans",
+        "given": "Cariad"
+      },
+      {
+        "family": "Davies",
+        "given": "Nicholas G."
+      },
+      {
+        "family": "Pearson",
+        "given": "Carl A. B."
+      },
+      {
+        "family": "Quaife",
+        "given": "Matthew"
+      },
+      {
+        "family": "Tully",
+        "given": "Damien C."
+      },
+      {
+        "family": "Abbott",
+        "given": "Sam"
+      },
+      {
+        "family": "Evans",
+        "given": "Cariad"
+      },
+      {
+        "family": "Partridge",
+        "given": "David G."
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Hué",
+        "given": "Stéphane"
+      },
+      {
+        "family": "Silva",
+        "given": "Thushan I. de"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "container-title": "Nature Communications",
+    "DOI": "10.1038/s41467-022-28291-y",
+    "volume": "13",
+    "issue": "1",
+    "page": "671-671",
+    "URL": "https://www.nature.com/articles/s41467-022-28291-y.pdf",
+    "citation-count": 83,
+    "note": "Original entry: [62]"
+  },
+  {
+    "id": "munday2021changing",
+    "type": "article-journal",
+    "title": "Changing socio-economic and ethnic disparities in influenza/A/H1N1 infection early in the 2009 UK epidemic: a descriptive analysis",
+    "author": [
+      {
+        "family": "Munday",
+        "given": "James D"
+      },
+      {
+        "family": "Pebody",
+        "given": "Richard"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Hoek",
+        "given": "Albert Jan van"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "BMC Infectious Diseases",
+    "DOI": "10.1186/s12879-021-06936-5",
+    "volume": "21",
+    "issue": "1",
+    "page": "1243-1243",
+    "URL": "https://bmcinfectdis.biomedcentral.com/counter/pdf/10.1186/s12879-021-06936-5",
+    "citation-count": 2,
+    "note": "Original entry: [61]"
+  },
+  {
+    "id": "endo2021within",
+    "type": "article-journal",
+    "title": "Within and between classroom transmission patterns of seasonal influenza among primary school students in Matsumoto city, Japan",
+    "author": [
+      {
+        "family": "Endo",
+        "given": "Akira"
+      },
+      {
+        "family": "Uchida",
+        "given": "Mitsuo"
+      },
+      {
+        "family": "Hayashi",
+        "given": "Naoki"
+      },
+      {
+        "family": "Liu",
+        "given": "Yang"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Kucharski",
+        "given": "Adam J."
+      },
+      {
+        "family": "Funk",
+        "given": "Sebastian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "Proceedings of the National Academy of Sciences",
+    "DOI": "10.1073/pnas.2112605118",
+    "volume": "118",
+    "issue": "46",
+    "URL": "https://www.pnas.org/content/pnas/118/46/e2112605118.full.pdf",
+    "citation-count": 26,
+    "note": "Original entry: [60]"
+  },
+  {
+    "id": "blassel2021drug",
+    "type": "article-journal",
+    "title": "Drug resistance mutations in HIV: new bioinformatics approaches and challenges",
+    "author": [
+      {
+        "family": "Blassel",
+        "given": "Luc"
+      },
+      {
+        "family": "Zhukova",
+        "given": "Anna"
+      },
+      {
+        "family": "Villabona‐Arenas",
+        "given": "Christian Julián"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Hué",
+        "given": "Stéphane"
+      },
+      {
+        "family": "Gascuel",
+        "given": "Olivier"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "Current Opinion in Virology",
+    "DOI": "10.1016/j.coviro.2021.09.009",
+    "volume": "51",
+    "page": "56-64",
+    "URL": "https://doi.org/10.1016/j.coviro.2021.09.009",
+    "citation-count": 48,
+    "note": "Original entry: [59]"
+  },
+  {
+    "id": "davies2021modeling",
+    "type": "article-journal",
+    "title": "Modeling the effect of vaccination on selection for antibiotic resistance in <i>Streptococcus pneumonia</i> <i>e</i>",
+    "author": [
+      {
+        "family": "Davies",
+        "given": "Nicholas G."
+      },
+      {
+        "family": "Flasche",
+        "given": "Stefan"
+      },
+      {
+        "family": "Jit",
+        "given": "Mark"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "Science Translational Medicine",
+    "DOI": "10.1126/scitranslmed.aaz8690",
+    "volume": "13",
+    "issue": "606",
+    "URL": "https://www.research.ed.ac.uk/en/publications/3d45ff0b-a186-42fd-9ea7-da58c37de0cc",
+    "citation-count": 18,
+    "note": "Original entry: [58]"
+  },
+  {
+    "id": "leclerc2021importance",
+    "type": "article-journal",
+    "title": "Importance of patient bed pathways and length of stay differences in predicting COVID-19 hospital bed occupancy in England",
+    "author": [
+      {
+        "family": "Leclerc",
+        "given": "Quentin J."
+      },
+      {
+        "family": "Fuller",
+        "given": "Naomi M."
+      },
+      {
+        "family": "Keogh",
+        "given": "Ruth H."
+      },
+      {
+        "family": "Diaz‐Ordaz",
+        "given": "Karla"
+      },
+      {
+        "family": "Sekula",
+        "given": "Richard"
+      },
+      {
+        "family": "Semple",
+        "given": "Malcolm G."
+      },
+      {
+        "family": "Baillie",
+        "given": "J. Kenneth"
+      },
+      {
+        "family": "Semple",
+        "given": "Malcolm G."
+      },
+      {
+        "family": "Openshaw",
+        "given": "Peter"
+      },
+      {
+        "family": "Carson",
+        "given": "Gail"
+      },
+      {
+        "family": "Alex",
+        "given": "Beatrice"
+      },
+      {
+        "family": "Bach",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Barclay",
+        "given": "William"
+      },
+      {
+        "family": "Bogaert",
+        "given": "Debby"
+      },
+      {
+        "family": "Chand",
+        "given": "Meera"
+      },
+      {
+        "family": "Cooke",
+        "given": "G"
+      },
+      {
+        "family": "Docherty",
+        "given": "Annemarie B"
+      },
+      {
+        "family": "Dunning",
+        "given": "Jake"
+      },
+      {
+        "family": "Filipe",
+        "given": "Ana da Silva"
+      },
+      {
+        "family": "Fletcher",
+        "given": "Tom"
+      },
+      {
+        "family": "Green",
+        "given": "Christopher"
+      },
+      {
+        "family": "Harrison",
+        "given": "Ewen M"
+      },
+      {
+        "family": "Hiscox",
+        "given": "Julian A."
+      },
+      {
+        "family": "Ho",
+        "given": "Antonia"
+      },
+      {
+        "family": "Horby",
+        "given": "Peter"
+      },
+      {
+        "family": "Ijaz",
+        "given": "Samreen"
+      },
+      {
+        "family": "Khoo",
+        "given": "Saye"
+      },
+      {
+        "family": "Klenerman",
+        "given": "Paul"
+      },
+      {
+        "family": "Law",
+        "given": "Andrew"
+      },
+      {
+        "family": "Lim",
+        "given": "Wei Shen"
+      },
+      {
+        "family": "Mentzer",
+        "given": "Alexander J."
+      },
+      {
+        "family": "Merson",
+        "given": "Laura"
+      },
+      {
+        "family": "Meynert",
+        "given": "Alison M"
+      },
+      {
+        "family": "Noursadeghi",
+        "given": "Mahdad"
+      },
+      {
+        "family": "Moore",
+        "given": "Shona C."
+      },
+      {
+        "family": "Palmarini",
+        "given": "Massimo"
+      },
+      {
+        "family": "Paxton",
+        "given": "William A."
+      },
+      {
+        "family": "Pollakis",
+        "given": "Georgios"
+      },
+      {
+        "family": "Price",
+        "given": "Nicholas"
+      },
+      {
+        "family": "Rambaut",
+        "given": "Andrew"
+      },
+      {
+        "family": "Robertson",
+        "given": "David"
+      },
+      {
+        "family": "Russell",
+        "given": "Clark D"
+      },
+      {
+        "family": "Sancho‐Shimizu",
+        "given": "Vanessa"
+      },
+      {
+        "family": "Scott",
+        "given": "J T"
+      },
+      {
+        "family": "Silva",
+        "given": "Thushan I. de"
+      },
+      {
+        "family": "Sigfrid",
+        "given": "Louise"
+      },
+      {
+        "family": "Solomon",
+        "given": "Tom"
+      },
+      {
+        "family": "Sriskandan",
+        "given": "Shiranee"
+      },
+      {
+        "family": "Stuart",
+        "given": "David I."
+      },
+      {
+        "family": "Summers",
+        "given": "Charlotte"
+      },
+      {
+        "family": "Tedder",
+        "given": "Richard S."
+      },
+      {
+        "family": "Thomson",
+        "given": "Emma C."
+      },
+      {
+        "family": "Thompson",
+        "given": "A. A. Roger"
+      },
+      {
+        "family": "Thwaites",
+        "given": "Ryan S."
+      },
+      {
+        "family": "Turtle",
+        "given": "Lance"
+      },
+      {
+        "family": "Zambon",
+        "given": "Maria"
+      },
+      {
+        "family": "Hardwick",
+        "given": "Hayley"
+      },
+      {
+        "family": "Donohue",
+        "given": "Chloe"
+      },
+      {
+        "family": "Lyons",
+        "given": "Ronan A"
+      },
+      {
+        "family": "Griffiths",
+        "given": "Fiona"
+      },
+      {
+        "family": "Oosthuyzen",
+        "given": "Wilna"
+      },
+      {
+        "family": "Norman",
+        "given": "Lisa"
+      },
+      {
+        "family": "Pius",
+        "given": "Riinu"
+      },
+      {
+        "family": "Drake",
+        "given": "Tom"
+      },
+      {
+        "family": "Fairfield",
+        "given": "Cameron J"
+      },
+      {
+        "family": "Knight",
+        "given": "Stephen R"
+      },
+      {
+        "family": "McLean",
+        "given": "Kenneth A"
+      },
+      {
+        "family": "Murphy",
+        "given": "Derek"
+      },
+      {
+        "family": "Shaw",
+        "given": "Catherine A."
+      },
+      {
+        "family": "Dalton",
+        "given": "Jo Ann"
+      },
+      {
+        "family": "Lee",
+        "given": "James"
+      },
+      {
+        "family": "Plotkin",
+        "given": "Daniel"
+      },
+      {
+        "family": "Girvan",
+        "given": "Michelle"
+      },
+      {
+        "family": "Saviciute",
+        "given": "Egle"
+      },
+      {
+        "family": "Roberts",
+        "given": "Stephanie"
+      },
+      {
+        "family": "Harrison",
+        "given": "Ewen M"
+      },
+      {
+        "family": "Marsh",
+        "given": "Laura"
+      },
+      {
+        "family": "Connor",
+        "given": "Marie"
+      },
+      {
+        "family": "Halpin",
+        "given": "Sophie"
+      },
+      {
+        "family": "Jackson",
+        "given": "Clare"
+      },
+      {
+        "family": "Gamble",
+        "given": "Carrol"
+      },
+      {
+        "family": "Petersen",
+        "given": "Claire"
+      },
+      {
+        "family": "Mullaney",
+        "given": "Scott"
+      },
+      {
+        "family": "Leeming",
+        "given": "Gary"
+      },
+      {
+        "family": "Wham",
+        "given": "Murray"
+      },
+      {
+        "family": "Clohisey",
+        "given": "Sara"
+      },
+      {
+        "family": "Hendry",
+        "given": "Ross"
+      },
+      {
+        "family": "Scott-Brown",
+        "given": "James"
+      },
+      {
+        "family": "Greenhalf",
+        "given": "William"
+      },
+      {
+        "family": "Shaw",
+        "given": "Victoria"
+      },
+      {
+        "family": "McDonald",
+        "given": "Sarah E."
+      },
+      {
+        "family": "Keating",
+        "given": "Seán"
+      },
+      {
+        "family": "Ahmed",
+        "given": "Katie A."
+      },
+      {
+        "family": "Armstrong",
+        "given": "J. A."
+      },
+      {
+        "family": "Ashworth",
+        "given": "Milton"
+      },
+      {
+        "family": "Asiimwe",
+        "given": "Innocent G."
+      },
+      {
+        "family": "Bakshi",
+        "given": "Siddharth"
+      },
+      {
+        "family": "Barlow",
+        "given": "Samantha L"
+      },
+      {
+        "family": "Booth",
+        "given": "Laura"
+      },
+      {
+        "family": "Brennan",
+        "given": "Benjamin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "BMC Health Services Research",
+    "DOI": "10.1186/s12913-021-06509-x",
+    "volume": "21",
+    "issue": "1",
+    "page": "566-566",
+    "URL": "https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-021-06509-x",
+    "citation-count": 33,
+    "note": "Original entry: [57]"
+  },
+  {
+    "id": "davies2021estimated",
+    "type": "article-journal",
+    "title": "Estimated transmissibility and impact of SARS-CoV-2 lineage B.1.1.7 in England",
+    "author": [
+      {
+        "family": "Davies",
+        "given": "Nicholas G."
+      },
+      {
+        "family": "Abbott",
+        "given": "Sam"
+      },
+      {
+        "family": "Barnard",
+        "given": "Rosanna C."
+      },
+      {
+        "family": "Jarvis",
+        "given": "Christopher I"
+      },
+      {
+        "family": "Kucharski",
+        "given": "Adam J."
+      },
+      {
+        "family": "Munday",
+        "given": "James D"
+      },
+      {
+        "family": "Pearson",
+        "given": "Carl A. B."
+      },
+      {
+        "family": "Russell",
+        "given": "Timothy"
+      },
+      {
+        "family": "Tully",
+        "given": "Damien C."
+      },
+      {
+        "family": "Washburne",
+        "given": "Alex"
+      },
+      {
+        "family": "Wenseleers",
+        "given": "Tom"
+      },
+      {
+        "family": "Gimma",
+        "given": "Amy"
+      },
+      {
+        "family": "Waites",
+        "given": "William"
+      },
+      {
+        "family": "Wong",
+        "given": "Kerry LM"
+      },
+      {
+        "family": "Zandvoort",
+        "given": "Kevin van"
+      },
+      {
+        "family": "Silverman",
+        "given": "Justin D."
+      },
+      {
+        "family": "Diaz‐Ordaz",
+        "given": "Karla"
+      },
+      {
+        "family": "Keogh",
+        "given": "Ruth H."
+      },
+      {
+        "family": "Eggo",
+        "given": "Rosalind M."
+      },
+      {
+        "family": "Funk",
+        "given": "Sebastian"
+      },
+      {
+        "family": "Jit",
+        "given": "Mark"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Edmunds",
+        "given": "W. John"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "Science",
+    "DOI": "10.1126/science.abg3055",
+    "volume": "372",
+    "issue": "6538",
+    "URL": "https://www.science.org/cms/asset/9064b3e4-39f9-402c-8fa2-b689efda98b4/pap.pdf",
+    "citation-count": 2557,
+    "note": "Original entry: [56]"
+  },
+  {
+    "id": "munday2021implicatio",
+    "type": "article-journal",
+    "title": "Implications of the school-household network structure on SARS-CoV-2 transmission under school reopening strategies in England",
+    "author": [
+      {
+        "family": "Munday",
+        "given": "James D"
+      },
+      {
+        "family": "Sherratt",
+        "given": "Katharine"
+      },
+      {
+        "family": "Meakin",
+        "given": "Sophie"
+      },
+      {
+        "family": "Endo",
+        "given": "Akira"
+      },
+      {
+        "family": "Pearson",
+        "given": "Carl A. B."
+      },
+      {
+        "family": "Hellewell",
+        "given": "Joel"
+      },
+      {
+        "family": "Abbott",
+        "given": "Sam"
+      },
+      {
+        "family": "Bosse",
+        "given": "Nikos I"
+      },
+      {
+        "family": "Eggo",
+        "given": "Rosalind M."
+      },
+      {
+        "family": "Simons",
+        "given": "David"
+      },
+      {
+        "family": "O’Reilly",
+        "given": "Kathleen"
+      },
+      {
+        "family": "Russell",
+        "given": "Timothy"
+      },
+      {
+        "family": "Lowe",
+        "given": "Rachel"
+      },
+      {
+        "family": "Leclerc",
+        "given": "Quentin J."
+      },
+      {
+        "family": "Emery",
+        "given": "Jon C."
+      },
+      {
+        "family": "Klepac",
+        "given": "Petra"
+      },
+      {
+        "family": "Nightingale",
+        "given": "Emily"
+      },
+      {
+        "family": "Quaife",
+        "given": "Matthew"
+      },
+      {
+        "family": "Zandvoort",
+        "given": "Kevin van"
+      },
+      {
+        "family": "Knight",
+        "given": "Gwenan M."
+      },
+      {
+        "family": "Jombart",
+        "given": "Thibaut"
+      },
+      {
+        "family": "Villabona‐Arenas",
+        "given": "Christian Julián"
+      },
+      {
+        "family": "Rees",
+        "given": "Eleanor M."
+      },
+      {
+        "family": "Diamond",
+        "given": "Charlie"
+      },
+      {
+        "family": "Auzenbergs",
+        "given": "Megan"
+      },
+      {
+        "family": "Medley",
+        "given": "Graham F."
+      },
+      {
+        "family": "Foss",
+        "given": "Anna M."
+      },
+      {
+        "family": "Gore‐Langton",
+        "given": "Georgia R."
+      },
+      {
+        "family": "Deol",
+        "given": "Arminder"
+      },
+      {
+        "family": "Jit",
+        "given": "Mark"
+      },
+      {
+        "family": "Gibbs",
+        "given": "Hamish"
+      },
+      {
+        "family": "Procter",
+        "given": "Simon R."
+      },
+      {
+        "family": "Roselló",
+        "given": "Alicia"
+      },
+      {
+        "family": "Jarvis",
+        "given": "Christopher I"
+      },
+      {
+        "family": "Liu",
+        "given": "Yang"
+      },
+      {
+        "family": "Houben",
+        "given": "Rein M G J"
+      },
+      {
+        "family": "Hué",
+        "given": "Stéphane"
+      },
+      {
+        "family": "Clifford",
+        "given": "Samuel"
+      },
+      {
+        "family": "Quilty",
+        "given": "Billy J."
+      },
+      {
+        "family": "Gimma",
+        "given": "Amy"
+      },
+      {
+        "family": "Tully",
+        "given": "Damien C."
+      },
+      {
+        "family": "Sun",
+        "given": "Fiona Yueqian"
+      },
+      {
+        "family": "Prem",
+        "given": "Kiesha"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Wallinga",
+        "given": "Jacco"
+      },
+      {
+        "family": "Edmunds",
+        "given": "W. John"
+      },
+      {
+        "family": "Hoek",
+        "given": "Albert Jan van"
+      },
+      {
+        "family": "Funk",
+        "given": "Sebastian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "Nature Communications",
+    "DOI": "10.1038/s41467-021-22213-0",
+    "volume": "12",
+    "issue": "1",
+    "page": "1942-1942",
+    "URL": "https://www.nature.com/articles/s41467-021-22213-0.pdf",
+    "citation-count": 40,
+    "note": "Original entry: [55]"
+  },
+  {
+    "id": "wenzel2020cost-effec",
+    "type": "article-journal",
+    "title": "Cost-effectiveness of live-attenuated influenza vaccination among school-age children",
+    "author": [
+      {
+        "family": "Wenzel",
+        "given": "Natasha"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Leeuwen",
+        "given": "Edwin van"
+      },
+      {
+        "family": "Halloran",
+        "given": "M. Elizabeth"
+      },
+      {
+        "family": "Baguelin",
+        "given": "Marc"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "container-title": "Vaccine",
+    "DOI": "10.1016/j.vaccine.2020.10.007",
+    "volume": "39",
+    "issue": "2",
+    "page": "447-456",
+    "citation-count": 7,
+    "note": "Original entry: [54]"
+  },
+  {
+    "id": "endo2021implicatio",
+    "type": "manuscript",
+    "title": "Implication of backward contact tracing in the presence of overdispersed transmission in COVID-19 outbreaks",
+    "author": [
+      {
+        "family": "Endo",
+        "given": "Akira"
+      },
+      {
+        "family": "Leclerc",
+        "given": "Quentin J."
+      },
+      {
+        "family": "Knight",
+        "given": "Gwenan M."
+      },
+      {
+        "family": "Medley",
+        "given": "Graham F."
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Funk",
+        "given": "Sebastian"
+      },
+      {
+        "family": "Kucharski",
+        "given": "Adam J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "Wellcome Open Research",
+    "DOI": "10.12688/wellcomeopenres.16344.3",
+    "volume": "5",
+    "page": "239-239",
+    "URL": "https://doi.org/10.12688/wellcomeopenres.16344.3",
+    "citation-count": 91,
+    "note": "Original entry: [53]"
+  },
+  {
+    "id": "hodgson2020evaluating",
+    "type": "article-journal",
+    "title": "Evaluating the next generation of RSV intervention strategies: a mathematical modelling study and cost-effectiveness analysis",
+    "author": [
+      {
+        "family": "Hodgson",
+        "given": "David"
+      },
+      {
+        "family": "Pebody",
+        "given": "Richard"
+      },
+      {
+        "family": "Panovska‐Griffiths",
+        "given": "Jasmina"
+      },
+      {
+        "family": "Baguelin",
+        "given": "Marc"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "container-title": "BMC Medicine",
+    "DOI": "10.1186/s12916-020-01802-8",
+    "volume": "18",
+    "issue": "1",
+    "page": "348-348",
+    "URL": "https://bmcmedicine.biomedcentral.com/track/pdf/10.1186/s12916-020-01802-8",
+    "citation-count": 76,
+    "note": "Original entry: [52]"
+  },
+  {
+    "id": "unknown2020the",
+    "type": "article-journal",
+    "title": "The role of RSV seasonality on RSV prevention strategy planning for passive immunisation of infants in low- and middle-income countries: a modelling study",
+    "author": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "container-title": ", Feikin D, Nair H (2020) The role of RSV seasonality on RSV prevention strategy planning for passive immunisation of infants in low- and middle-income countries: a modelling study.",
+    "note": "Original entry: [51]"
+  },
+  {
+    "id": "wuerz2020acquisitio",
+    "type": "article-journal",
+    "title": "Acquisition of extended-spectrum beta-lactamase-producing Enterobacteriaceae (ESBL-PE) carriage after exposure to systemic antimicrobials during travel: Systematic review and meta-analysis",
+    "author": [
+      {
+        "family": "Wuerz",
+        "given": "Terence"
+      },
+      {
+        "family": "Kassim",
+        "given": "Sameer S."
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "container-title": "Travel Medicine and Infectious Disease",
+    "DOI": "10.1016/j.tmaid.2020.101823",
+    "volume": "37",
+    "page": "101823-101823",
+    "URL": "https://researchonline.lshtm.ac.uk/id/eprint/4657707/1/Abx%20during%20travel%20and%20ESBL-PE%20SR%20and%20MA%20-%20TMAID%20-%20Rev%20Mar%2016%202020_combined.pdf",
+    "citation-count": 25,
+    "note": "Original entry: [50]"
+  },
+  {
+    "id": "villabona‐arenas2020number",
+    "type": "article-journal",
+    "title": "Number of HIV-1 founder variants is determined by the recency of the source partner infection",
+    "author": [
+      {
+        "family": "Villabona‐Arenas",
+        "given": "Christian Julián"
+      },
+      {
+        "family": "Hall",
+        "given": "Matthew"
+      },
+      {
+        "family": "Lythgoe",
+        "given": "Katrina"
+      },
+      {
+        "family": "Gaffney",
+        "given": "Stephen G."
+      },
+      {
+        "family": "Regoes",
+        "given": "Roland R."
+      },
+      {
+        "family": "Hué",
+        "given": "Stéphane"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "container-title": "Science",
+    "DOI": "10.1126/science.aba5443",
+    "volume": "369",
+    "issue": "6499",
+    "page": "103-108",
+    "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/7116289",
+    "citation-count": 12,
+    "note": "Original entry: [49]"
+  },
+  {
+    "id": "yang2020cost-effec",
+    "type": "article-journal",
+    "title": "Cost-effectiveness of introducing national seasonal influenza vaccination for adults aged 60 years and above in mainland China: a modelling analysis",
+    "author": [
+      {
+        "family": "Yang",
+        "given": "Juan"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Feng",
+        "given": "Shuo"
+      },
+      {
+        "family": "Baguelin",
+        "given": "Marc"
+      },
+      {
+        "family": "Wu",
+        "given": "Peng"
+      },
+      {
+        "family": "Yan",
+        "given": "Han"
+      },
+      {
+        "family": "Lau",
+        "given": "Eric H. Y."
+      },
+      {
+        "family": "Wu",
+        "given": "Joseph T."
+      },
+      {
+        "family": "Liu",
+        "given": "Yang"
+      },
+      {
+        "family": "Cowling",
+        "given": "Benjamin J."
+      },
+      {
+        "family": "Jit",
+        "given": "Mark"
+      },
+      {
+        "family": "Yu",
+        "given": "Hongjie"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "container-title": "BMC Medicine",
+    "DOI": "10.1186/s12916-020-01545-6",
+    "volume": "18",
+    "issue": "1",
+    "page": "90-90",
+    "URL": "https://bmcmedicine.biomedcentral.com/track/pdf/10.1186/s12916-020-01545-6",
+    "citation-count": 49,
+    "note": "Original entry: [48]"
+  },
+  {
+    "id": "jit2020quantifyin",
+    "type": "article-journal",
+    "title": "Quantifying the economic cost of antibiotic resistance and the impact of related interventions: rapid methodological review, conceptual framework and recommendations for future studies",
+    "author": [
+      {
+        "family": "Jit",
+        "given": "Mark"
+      },
+      {
+        "family": "Ng",
+        "given": "Dorothy Hui Lin"
+      },
+      {
+        "family": "Luangasanatip",
+        "given": "Nantasit"
+      },
+      {
+        "family": "Sandmann",
+        "given": "Frank"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Robotham",
+        "given": "Julie V."
+      },
+      {
+        "family": "Pouwels",
+        "given": "Koen B."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "container-title": "BMC Medicine",
+    "DOI": "10.1186/s12916-020-1507-2",
+    "volume": "18",
+    "issue": "1",
+    "page": "38-38",
+    "URL": "https://bmcmedicine.biomedcentral.com/track/pdf/10.1186/s12916-020-1507-2",
+    "citation-count": 92,
+    "note": "Original entry: [47]"
+  },
+  {
+    "id": "chae2019effect",
+    "type": "article-journal",
+    "title": "Effect of Pediatric Influenza Vaccination on Antibiotic Resistance, England and Wales",
+    "author": [
+      {
+        "family": "Chae",
+        "given": "Chungman"
+      },
+      {
+        "family": "Davies",
+        "given": "Nicholas G."
+      },
+      {
+        "family": "Jit",
+        "given": "Mark"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "container-title": "Emerging infectious diseases",
+    "DOI": "10.3201/eid2601.191110",
+    "volume": "26",
+    "issue": "1",
+    "page": "138-142",
+    "URL": "https://wwwnc.cdc.gov/eid/article/26/1/pdfs/19-1110.pdf",
+    "citation-count": 7,
+    "note": "Original entry: [46]"
+  },
+  {
+    "id": "knight2019mathematic",
+    "type": "article-journal",
+    "title": "Mathematical modelling for antibiotic resistance control policy: do we know enough?",
+    "author": [
+      {
+        "family": "Knight",
+        "given": "Gwenan M."
+      },
+      {
+        "family": "Davies",
+        "given": "Nicholas G."
+      },
+      {
+        "family": "Colijn",
+        "given": "Caroline"
+      },
+      {
+        "family": "Coll",
+        "given": "Francesc"
+      },
+      {
+        "family": "Donker",
+        "given": "Tjibbe"
+      },
+      {
+        "family": "Gifford",
+        "given": "Danna R."
+      },
+      {
+        "family": "Glover",
+        "given": "R. E."
+      },
+      {
+        "family": "Jit",
+        "given": "Mark"
+      },
+      {
+        "family": "Klemm",
+        "given": "Elizabeth J."
+      },
+      {
+        "family": "Lehtinen",
+        "given": "Sonja"
+      },
+      {
+        "family": "Lindsay",
+        "given": "Jodi A."
+      },
+      {
+        "family": "Lipsitch",
+        "given": "Marc"
+      },
+      {
+        "family": "Llewelyn",
+        "given": "Martin"
+      },
+      {
+        "family": "Mateus",
+        "given": "Ana"
+      },
+      {
+        "family": "Robotham",
+        "given": "Julie V."
+      },
+      {
+        "family": "Sharland",
+        "given": "Mike"
+      },
+      {
+        "family": "Stekel",
+        "given": "Dov J."
+      },
+      {
+        "family": "Yakob",
+        "given": "Laith"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "container-title": "BMC Infectious Diseases",
+    "DOI": "10.1186/s12879-019-4630-y",
+    "volume": "19",
+    "issue": "1",
+    "page": "1011-1011",
+    "URL": "https://bmcinfectdis.biomedcentral.com/track/pdf/10.1186/s12879-019-4630-y",
+    "citation-count": 59,
+    "note": "Original entry: [45]"
+  },
+  {
+    "id": "ndeffo-mbah2019the",
+    "type": "article-journal",
+    "title": "The impact of vector migration on the effectiveness of strategies to control gambiense human African trypanosomiasis",
+    "author": [
+      {
+        "family": "Ndeffo-Mbah",
+        "given": "Martial L."
+      },
+      {
+        "family": "Pandey",
+        "given": "Abhishek"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Aksoy",
+        "given": "Serap"
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "container-title": "PLoS neglected tropical diseases",
+    "DOI": "10.1371/journal.pntd.0007903",
+    "volume": "13",
+    "issue": "12",
+    "page": "e0007903-e0007903",
+    "URL": "https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0007903&type=printable",
+    "citation-count": 12,
+    "note": "Original entry: [44]"
+  },
+  {
+    "id": "hodgson2019estimates",
+    "type": "article-journal",
+    "title": "Estimates for quality of life loss due to Respiratory Syncytial Virus",
+    "author": [
+      {
+        "family": "Hodgson",
+        "given": "David"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Baguelin",
+        "given": "Marc"
+      },
+      {
+        "family": "Panovska‐Griffiths",
+        "given": "Jasmina"
+      },
+      {
+        "family": "Thorrington",
+        "given": "Dominic"
+      },
+      {
+        "family": "Hoek",
+        "given": "Albert Jan van"
+      },
+      {
+        "family": "Zhao",
+        "given": "Hongxin"
+      },
+      {
+        "family": "Fragaszy",
+        "given": "Ellen"
+      },
+      {
+        "family": "Hayward",
+        "given": "Andrew"
+      },
+      {
+        "family": "Pebody",
+        "given": "Richard"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "container-title": "Influenza and Other Respiratory Viruses",
+    "DOI": "10.1111/irv.12686",
+    "volume": "14",
+    "issue": "1",
+    "page": "19-27",
+    "URL": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/irv.12686",
+    "citation-count": 40,
+    "note": "Original entry: [43]"
+  },
+  {
+    "id": "luyten2019quantifyin",
+    "type": "article-journal",
+    "title": "Quantifying the public's view on social value judgments in vaccine decision-making: A discrete choice experiment",
+    "author": [
+      {
+        "family": "Luyten",
+        "given": "Jeroen"
+      },
+      {
+        "family": "Kessels",
+        "given": "Roselinde"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Jit",
+        "given": "Mark"
+      },
+      {
+        "family": "Hoek",
+        "given": "Albert Jan van"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "container-title": "Social Science & Medicine",
+    "DOI": "10.1016/j.socscimed.2019.03.025",
+    "volume": "228",
+    "page": "181-193",
+    "URL": "https://www.pure.ed.ac.uk/ws/files/82239215/AAM_Quantifying_the_publics_view_on_social_value....pdf",
+    "citation-count": 32,
+    "note": "Original entry: [42]"
+  },
+  {
+    "id": "capewell2019resolving",
+    "type": "article-journal",
+    "title": "Resolving the apparent transmission paradox of African sleeping sickness",
+    "author": [
+      {
+        "family": "Capewell",
+        "given": "Paul"
+      },
+      {
+        "family": "Atkins",
+        "given": "K. E."
+      },
+      {
+        "family": "Weir",
+        "given": "William"
+      },
+      {
+        "family": "Jamonneau",
+        "given": "Vincent"
+      },
+      {
+        "family": "Camara",
+        "given": "Mamadou"
+      },
+      {
+        "family": "Clucas",
+        "given": "Caroline"
+      },
+      {
+        "family": "Swar",
+        "given": "Nono-Raymond Kuispond"
+      },
+      {
+        "family": "Ngoyi",
+        "given": "Dieudonné Mumba"
+      },
+      {
+        "family": "Rotureau",
+        "given": "Brice"
+      },
+      {
+        "family": "Garside",
+        "given": "Paul"
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      },
+      {
+        "family": "Bucheton",
+        "given": "Bruno"
+      },
+      {
+        "family": "MacLeod",
+        "given": "Annette"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "container-title": "PLoS Biology",
+    "DOI": "10.1371/journal.pbio.3000105",
+    "volume": "17",
+    "issue": "1",
+    "page": "e3000105-e3000105",
+    "URL": "https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3000105&type=printable",
+    "citation-count": 70,
+    "note": "Original entry: [41]"
+  },
+  {
+    "id": "davies2019within-hos",
+    "type": "article-journal",
+    "title": "Within-host dynamics shape antibiotic resistance in commensal bacteria",
+    "author": [
+      {
+        "family": "Davies",
+        "given": "Nicholas G."
+      },
+      {
+        "family": "Flasche",
+        "given": "Stefan"
+      },
+      {
+        "family": "Jit",
+        "given": "Mark"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "container-title": "Nature Ecology & Evolution",
+    "DOI": "10.1038/s41559-018-0786-x",
+    "volume": "3",
+    "issue": "3",
+    "page": "440-449",
+    "citation-count": 104,
+    "note": "Original entry: [40]"
+  },
+  {
+    "id": "unknown2018vaccinatio",
+    "type": "article-journal",
+    "title": "Vaccination drives infectious disease inequality",
+    "author": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "container-title": "(2018) Vaccination drives infectious disease inequality.",
+    "note": "Original entry: [39]"
+  },
+  {
+    "id": "unknown2018can",
+    "type": "article-journal",
+    "title": "Can antibotic resistance be reduced by vaccinating against respiratory disease?",
+    "author": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "container-title": ", Lipsitch M (2018) Can antibotic resistance be reduced by vaccinating against respiratory disease?",
+    "note": "Original entry: [38]"
+  },
+  {
+    "id": "flasche2018balancing",
+    "type": "article-journal",
+    "title": "Balancing Benefits and Risks of Antibiotic Use",
+    "author": [
+      {
+        "family": "Flasche",
+        "given": "Stefan"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "container-title": "The Journal of Infectious Diseases",
+    "DOI": "10.1093/infdis/jiy344",
+    "volume": "218",
+    "issue": "9",
+    "page": "1351-1353",
+    "URL": "https://academic.oup.com/jid/article-pdf/218/9/1351/25823703/jiy344.pdf",
+    "citation-count": 22,
+    "note": "Original entry: [37]"
+  },
+  {
+    "id": "camacho2018cholera",
+    "type": "article-journal",
+    "title": "Cholera epidemic in Yemen, 2016–18: an analysis of surveillance data",
+    "author": [
+      {
+        "family": "Camacho",
+        "given": "Anton"
+      },
+      {
+        "family": "Bouhenia",
+        "given": "Malika"
+      },
+      {
+        "family": "Alyusfi",
+        "given": "Reema"
+      },
+      {
+        "family": "Alkohlani",
+        "given": "Abdulhakeem"
+      },
+      {
+        "family": "Naji",
+        "given": "Munna Abdulla Mohammed"
+      },
+      {
+        "family": "Radiguès",
+        "given": "Xavier de"
+      },
+      {
+        "family": "Abubakar",
+        "given": "Abdinasir M"
+      },
+      {
+        "family": "Almoalmi",
+        "given": "Abdulkareem"
+      },
+      {
+        "family": "Seguin",
+        "given": "Caroline"
+      },
+      {
+        "family": "Sagrado",
+        "given": "María José"
+      },
+      {
+        "family": "Poncin",
+        "given": "Marc"
+      },
+      {
+        "family": "McRae",
+        "given": "Melissa"
+      },
+      {
+        "family": "Musoke",
+        "given": "Mohammed"
+      },
+      {
+        "family": "Rakesh",
+        "given": "Ankur"
+      },
+      {
+        "family": "Porten",
+        "given": "Klaudia"
+      },
+      {
+        "family": "Haskew",
+        "given": "Christopher"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Eggo",
+        "given": "Rosalind M."
+      },
+      {
+        "family": "Azman",
+        "given": "Andrew S."
+      },
+      {
+        "family": "Broekhuijsen",
+        "given": "Marije"
+      },
+      {
+        "family": "Saatcioglu",
+        "given": "Mehmet Akif"
+      },
+      {
+        "family": "Pezzoli",
+        "given": "Lorenzo"
+      },
+      {
+        "family": "Quilici",
+        "given": "Marie-Laure"
+      },
+      {
+        "family": "Al-Mesbahy",
+        "given": "Abdul Rahman"
+      },
+      {
+        "family": "Zagaria",
+        "given": "Nevio"
+      },
+      {
+        "family": "Luquero",
+        "given": "Francisco J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "container-title": "The Lancet Global Health",
+    "DOI": "10.1016/s2214-109x(18)30230-4",
+    "volume": "6",
+    "issue": "6",
+    "page": "e680-e690",
+    "URL": "http://www.thelancet.com/article/S2214109X18302304/pdf",
+    "citation-count": 246,
+    "note": "Original entry: [36]"
+  },
+  {
+    "id": "mcdonald2018infectious",
+    "type": "article-journal",
+    "title": "Infectious Complications After Deployment Trauma: Following Wounded US Military Personnel Into Veterans Affairs Care",
+    "author": [
+      {
+        "family": "McDonald",
+        "given": "Jay R."
+      },
+      {
+        "family": "Liang",
+        "given": "Stephen Y."
+      },
+      {
+        "family": "Li",
+        "given": "Ping"
+      },
+      {
+        "family": "Maalouf",
+        "given": "Salwa"
+      },
+      {
+        "family": "Murray",
+        "given": "Clinton K."
+      },
+      {
+        "family": "Weintrob",
+        "given": "Amy"
+      },
+      {
+        "family": "Schnaubelt",
+        "given": "Elizabeth"
+      },
+      {
+        "family": "Kuhn",
+        "given": "Janis"
+      },
+      {
+        "family": "Ganesan",
+        "given": "Anuradha"
+      },
+      {
+        "family": "Bradley",
+        "given": "William P."
+      },
+      {
+        "family": "Tribble",
+        "given": "David R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "container-title": "Clinical Infectious Diseases",
+    "DOI": "10.1093/cid/ciy280",
+    "volume": "67",
+    "issue": "8",
+    "page": "1205-1212",
+    "URL": "https://academic.oup.com/cid/article-pdf/67/8/1205/25849324/ciy280.pdf",
+    "citation-count": 20,
+    "note": "Original entry: [35]"
+  },
+  {
+    "id": "atkins2018vaccinatio",
+    "type": "article-journal",
+    "title": "Vaccination to reduce antimicrobial resistance",
+    "author": [
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Flasche",
+        "given": "Stefan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "container-title": "The Lancet Global Health",
+    "DOI": "10.1016/s2214-109x(18)30043-3",
+    "volume": "6",
+    "issue": "3",
+    "page": "e252-e252",
+    "URL": "http://www.thelancet.com/article/S2214109X18300433/pdf",
+    "citation-count": 24,
+    "note": "Original entry: [34]"
+  },
+  {
+    "id": "unknown2017using",
+    "type": "article-journal",
+    "title": "Using mathematical modelling to evaluate the impact of",
+    "author": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "container-title": null,
+    "note": "Original entry: [33]"
+  },
+  {
+    "id": "coltart2017the",
+    "type": "article-journal",
+    "title": "The 2013–2016 Ebola epidemic: multidisciplinary success conceals a missed opportunity",
+    "author": [
+      {
+        "family": "Coltart",
+        "given": "Cordelia"
+      },
+      {
+        "family": "Edmunds",
+        "given": "W. John"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "container-title": "Philosophical Transactions of the Royal Society B Biological Sciences",
+    "DOI": "10.1098/rstb.2016.0292",
+    "volume": "372",
+    "issue": "1721",
+    "page": "20160292-20160292",
+    "URL": "https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2016.0292",
+    "citation-count": 2,
+    "note": "Original entry: [32]"
+  },
+  {
+    "id": "piot2017preface:",
+    "type": "article-journal",
+    "title": "Preface: ‘The 2013–2016 West African Ebola epidemic: data, decision-making and disease control’",
+    "author": [
+      {
+        "family": "Piot",
+        "given": "Peter"
+      },
+      {
+        "family": "Coltart",
+        "given": "Cordelia"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "container-title": "Philosophical Transactions of the Royal Society B Biological Sciences",
+    "DOI": "10.1098/rstb.2017.0020",
+    "volume": "372",
+    "issue": "1721",
+    "page": "20170020-20170020",
+    "URL": "https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2017.0020",
+    "citation-count": 11,
+    "note": "Original entry: [31]"
+  },
+  {
+    "id": "rock2017data-drive",
+    "type": "article-journal",
+    "title": "Data-driven models to predict the elimination of sleeping sickness in former Equateur province of DRC",
+    "author": [
+      {
+        "family": "Rock",
+        "given": "Kat S."
+      },
+      {
+        "family": "Pandey",
+        "given": "Abhishek"
+      },
+      {
+        "family": "Ndeffo-Mbah",
+        "given": "Martial L."
+      },
+      {
+        "family": "Atkins",
+        "given": "K. E."
+      },
+      {
+        "family": "Lumbala",
+        "given": "Crispin"
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      },
+      {
+        "family": "Keeling",
+        "given": "Matt J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "container-title": "Epidemics",
+    "DOI": "10.1016/j.epidem.2017.01.006",
+    "volume": "18",
+    "page": "101-112",
+    "URL": "https://doi.org/10.1016/j.epidem.2017.01.006",
+    "citation-count": 41,
+    "note": "Original entry: [30]"
+  },
+  {
+    "id": "hodgson2017effect",
+    "type": "article-journal",
+    "title": "Effect of mass paediatric influenza vaccination on existing influenza vaccination programmes in England and Wales: a modelling and cost-effectiveness analysis",
+    "author": [
+      {
+        "family": "Hodgson",
+        "given": "David"
+      },
+      {
+        "family": "Baguelin",
+        "given": "Marc"
+      },
+      {
+        "family": "Leeuwen",
+        "given": "Edwin van"
+      },
+      {
+        "family": "Panovska‐Griffiths",
+        "given": "Jasmina"
+      },
+      {
+        "family": "Ramsay",
+        "given": "Mary"
+      },
+      {
+        "family": "Pebody",
+        "given": "Richard"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "container-title": "The Lancet Public Health",
+    "DOI": "10.1016/s2468-2667(16)30044-5",
+    "volume": "2",
+    "issue": "2",
+    "page": "e74-e81",
+    "URL": "http://www.thelancet.com/article/S2468266716300445/pdf",
+    "citation-count": 49,
+    "note": "Original entry: [29]"
+  },
+  {
+    "id": "thomas2016impact",
+    "type": "article-journal",
+    "title": "Impact of the national rotavirus vaccination programme on acute gastroenteritis in England and associated costs averted",
+    "author": [
+      {
+        "family": "Thomas",
+        "given": "Sara L."
+      },
+      {
+        "family": "Walker",
+        "given": "Jemma"
+      },
+      {
+        "family": "Fenty",
+        "given": "Justin"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Elliot",
+        "given": "Alex J."
+      },
+      {
+        "family": "Hughes",
+        "given": "Helen E."
+      },
+      {
+        "family": "Stowe",
+        "given": "Julia"
+      },
+      {
+        "family": "Ladhani",
+        "given": "Shamez"
+      },
+      {
+        "family": "Andrews",
+        "given": "Nick"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "container-title": "Vaccine",
+    "DOI": "10.1016/j.vaccine.2016.11.057",
+    "volume": "35",
+    "issue": "4",
+    "page": "680-686",
+    "URL": "https://doi.org/10.1016/j.vaccine.2016.11.057",
+    "citation-count": 59,
+    "note": "Original entry: [28]"
+  },
+  {
+    "id": "yang2016seasonal",
+    "type": "article-journal",
+    "title": "Seasonal influenza vaccination in China: Landscape of diverse regional reimbursement policy, and budget impact analysis",
+    "author": [
+      {
+        "family": "Yang",
+        "given": "Juan"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Feng",
+        "given": "Shuo"
+      },
+      {
+        "family": "Pang",
+        "given": "Mingfan"
+      },
+      {
+        "family": "Zheng",
+        "given": "Yaming"
+      },
+      {
+        "family": "Liu",
+        "given": "Xinxin"
+      },
+      {
+        "family": "Cowling",
+        "given": "Benjamin J."
+      },
+      {
+        "family": "Yu",
+        "given": "Hongjie"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "container-title": "Vaccine",
+    "DOI": "10.1016/j.vaccine.2016.10.013",
+    "volume": "34",
+    "issue": "47",
+    "page": "5724-5735",
+    "URL": "https://doi.org/10.1016/j.vaccine.2016.10.013",
+    "citation-count": 201,
+    "note": "Original entry: [27]"
+  },
+  {
+    "id": "li2016stimulatin",
+    "type": "article-journal",
+    "title": "Stimulating Influenza Vaccination via Prosocial Motives",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Meng"
+      },
+      {
+        "family": "Taylor",
+        "given": "E. G. R."
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Chapman",
+        "given": "Gretchen B."
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "container-title": "PLoS ONE",
+    "DOI": "10.1371/journal.pone.0159780",
+    "volume": "11",
+    "issue": "7",
+    "page": "e0159780-e0159780",
+    "URL": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0159780&type=printable",
+    "citation-count": 90,
+    "note": "Original entry: [26]"
+  },
+  {
+    "id": "dongen‐leunis2016which",
+    "type": "article-journal",
+    "title": "Which Questionnaire Should Be Used to Measure Quality-of-Life Utilities in Patients with Acute Leukemia? An Evaluation of the Validity and Interpretability of the EQ-5D-5L and Preference-Based Questionnaires Derived from the EORTC QLQ-C30",
+    "author": [
+      {
+        "family": "Dongen‐Leunis",
+        "given": "Annemieke van"
+      },
+      {
+        "family": "Redekop",
+        "given": "Ken"
+      },
+      {
+        "family": "Groot",
+        "given": "Carin A. Uyl‐de"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "container-title": "Value in Health",
+    "DOI": "10.1016/j.jval.2016.05.008",
+    "volume": "19",
+    "issue": "6",
+    "page": "834-843",
+    "citation-count": 26,
+    "note": "Original entry: [25]"
+  },
+  {
+    "id": "fitzpatrick2016cost-effec",
+    "type": "article-journal",
+    "title": "Cost-effectiveness of next-generation vaccines: The case of pertussis",
+    "author": [
+      {
+        "family": "Fitzpatrick",
+        "given": "Meagan C."
+      },
+      {
+        "family": "Wenzel",
+        "given": "Natasha"
+      },
+      {
+        "family": "Scarpino",
+        "given": "Samuel V."
+      },
+      {
+        "family": "Althouse",
+        "given": "Benjamin M."
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      },
+      {
+        "family": "Townsend",
+        "given": "Jeffrey P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "container-title": "Vaccine",
+    "DOI": "10.1016/j.vaccine.2016.04.010",
+    "volume": "34",
+    "issue": "29",
+    "page": "3405-3411",
+    "citation-count": 4,
+    "note": "Original entry: [24]"
+  },
+  {
+    "id": "tanaka2015relationsh",
+    "type": "article-journal",
+    "title": "Relationship Among Strongyloides stercoralis Infection, Human T-Cell Lymphotropic Virus Type 1 Infection, and Cancer: A 24-Year Cohort Inpatient Study in Okinawa, Japan",
+    "author": [
+      {
+        "family": "Tanaka",
+        "given": "Teruhisa"
+      },
+      {
+        "family": "Hirata",
+        "given": "Tetsuo"
+      },
+      {
+        "family": "Parrott",
+        "given": "Gretchen"
+      },
+      {
+        "family": "Higashiarakawa",
+        "given": "Miwa"
+      },
+      {
+        "family": "Kinjo",
+        "given": "Takeshi"
+      },
+      {
+        "family": "Kinjo",
+        "given": "Tetsu"
+      },
+      {
+        "family": "Hokama",
+        "given": "Akira"
+      },
+      {
+        "family": "Fujita",
+        "given": "Jiro"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "container-title": "American Journal of Tropical Medicine and Hygiene",
+    "DOI": "10.4269/ajtmh.15-0556",
+    "volume": "94",
+    "issue": "2",
+    "page": "365-370",
+    "URL": "http://www.ajtmh.org/deliver/fulltext/14761645/94/2/365.pdf?itemId=%2Fcontent%2Fjournals%2F10.4269%2Fajtmh.15-0556&mimeType=pdf&containerItemId=content/journals/14761645",
+    "citation-count": 46,
+    "note": "Original entry: [23]"
+  },
+  {
+    "id": "atkins2016cost-effec",
+    "type": "article-journal",
+    "title": "Cost-Effectiveness of Pertussis Vaccination During Pregnancy in the United States",
+    "author": [
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Fitzpatrick",
+        "given": "Meagan C."
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      },
+      {
+        "family": "Townsend",
+        "given": "Jeffrey P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "container-title": "American Journal of Epidemiology",
+    "DOI": "10.1093/aje/kwv347",
+    "volume": "183",
+    "issue": "12",
+    "page": "1159-1170",
+    "URL": "https://academic.oup.com/aje/article-pdf/183/12/1159/17343202/kwv347.pdf",
+    "citation-count": 46,
+    "note": "Original entry: [22]"
+  },
+  {
+    "id": "atkins2016seasonal",
+    "type": "article-journal",
+    "title": "Seasonal influenza vaccination delivery through community pharmacists in England: evaluation of the London pilot",
+    "author": [
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Hoek",
+        "given": "Albert Jan van"
+      },
+      {
+        "family": "Watson",
+        "given": "Conall"
+      },
+      {
+        "family": "Baguelin",
+        "given": "Marc"
+      },
+      {
+        "family": "Choga",
+        "given": "Lethiwe"
+      },
+      {
+        "family": "Patel",
+        "given": "Anika"
+      },
+      {
+        "family": "Raj",
+        "given": "Thara"
+      },
+      {
+        "family": "Jit",
+        "given": "Mark"
+      },
+      {
+        "family": "Griffiths",
+        "given": "Ulla"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "container-title": "BMJ Open",
+    "DOI": "10.1136/bmjopen-2015-009739",
+    "volume": "6",
+    "issue": "2",
+    "page": "e009739-e009739",
+    "URL": "https://bmjopen.bmj.com/content/bmjopen/6/2/e009739.full.pdf",
+    "citation-count": 50,
+    "note": "Original entry: [21]"
+  },
+  {
+    "id": "hollingsworth2015quantitati",
+    "type": "article-journal",
+    "title": "Quantitative analyses and modelling to support achievement of the 2020 goals for nine neglected tropical diseases",
+    "author": [
+      {
+        "family": "Hollingsworth",
+        "given": "T. Déirdre"
+      },
+      {
+        "family": "Adams",
+        "given": "Emily R."
+      },
+      {
+        "family": "Anderson",
+        "given": "Roy M."
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Bartsch",
+        "given": "Sarah M."
+      },
+      {
+        "family": "Basáñez",
+        "given": "María‐Gloria"
+      },
+      {
+        "family": "Behrend",
+        "given": "Matthew R."
+      },
+      {
+        "family": "Blok",
+        "given": "David J."
+      },
+      {
+        "family": "Chapman",
+        "given": "Lloyd A. C."
+      },
+      {
+        "family": "Coffeng",
+        "given": "Luc E."
+      },
+      {
+        "family": "Courtenay",
+        "given": "Orin"
+      },
+      {
+        "family": "Crump",
+        "given": "R. E."
+      },
+      {
+        "family": "Vlas",
+        "given": "Sake J. de"
+      },
+      {
+        "family": "Dobson",
+        "given": "Andrew P."
+      },
+      {
+        "family": "Dyson",
+        "given": "Louise"
+      },
+      {
+        "family": "Farkas",
+        "given": "Hajnal"
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      },
+      {
+        "family": "Gambhir",
+        "given": "Manoj"
+      },
+      {
+        "family": "Gurarie",
+        "given": "David"
+      },
+      {
+        "family": "Irvine",
+        "given": "Michael A."
+      },
+      {
+        "family": "Jervis",
+        "given": "Sarah"
+      },
+      {
+        "family": "Keeling",
+        "given": "Matt J."
+      },
+      {
+        "family": "Kelly‐Hope",
+        "given": "Louise A."
+      },
+      {
+        "family": "King",
+        "given": "Charles H."
+      },
+      {
+        "family": "Lee",
+        "given": "Bruce Y."
+      },
+      {
+        "family": "Rutte",
+        "given": "Epke A. Le"
+      },
+      {
+        "family": "Lietman",
+        "given": "Thomas M."
+      },
+      {
+        "family": "Ndeffo-Mbah",
+        "given": "Martial L."
+      },
+      {
+        "family": "Medley",
+        "given": "Graham F."
+      },
+      {
+        "family": "Michael",
+        "given": "Edwin"
+      },
+      {
+        "family": "Pandey",
+        "given": "Abhishek"
+      },
+      {
+        "family": "Peterson",
+        "given": "Jennifer K."
+      },
+      {
+        "family": "Pinsent",
+        "given": "Amy"
+      },
+      {
+        "family": "Porco",
+        "given": "Travis C."
+      },
+      {
+        "family": "Richardus",
+        "given": "Jan Hendrik"
+      },
+      {
+        "family": "Reimer",
+        "given": "Lisa J."
+      },
+      {
+        "family": "Rock",
+        "given": "Kat S."
+      },
+      {
+        "family": "Singh",
+        "given": "Brajendra K."
+      },
+      {
+        "family": "Stolk",
+        "given": "Wilma A."
+      },
+      {
+        "family": "Subramanian",
+        "given": "S."
+      },
+      {
+        "family": "Torr",
+        "given": "Stephen J."
+      },
+      {
+        "family": "Townsend",
+        "given": "Jeffrey P."
+      },
+      {
+        "family": "Truscott",
+        "given": "James E."
+      },
+      {
+        "family": "Walker",
+        "given": "Martin"
+      },
+      {
+        "family": "Zoueva",
+        "given": "Alexandra"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "container-title": "Parasites & Vectors",
+    "DOI": "10.1186/s13071-015-1235-1",
+    "volume": "8",
+    "issue": "1",
+    "page": "630-630",
+    "URL": "https://parasitesandvectors.biomedcentral.com/track/pdf/10.1186/s13071-015-1235-1",
+    "citation-count": 90,
+    "note": "Original entry: [20]"
+  },
+  {
+    "id": "pandey2015evaluating",
+    "type": "article-journal",
+    "title": "Evaluating long-term effectiveness of sleeping sickness control measures in Guinea",
+    "author": [
+      {
+        "family": "Pandey",
+        "given": "Abhishek"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Bucheton",
+        "given": "Bruno"
+      },
+      {
+        "family": "Camara",
+        "given": "Mamadou"
+      },
+      {
+        "family": "Aksoy",
+        "given": "Serap"
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      },
+      {
+        "family": "Ndeffo-Mbah",
+        "given": "Martial L."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "container-title": "Parasites & Vectors",
+    "DOI": "10.1186/s13071-015-1121-x",
+    "volume": "8",
+    "issue": "1",
+    "page": "550-550",
+    "URL": "https://parasitesandvectors.biomedcentral.com/track/pdf/10.1186/s13071-015-1121-x",
+    "citation-count": 51,
+    "note": "Original entry: [19]"
+  },
+  {
+    "id": "ibuka2015social",
+    "type": "article-journal",
+    "title": "Social contacts, vaccination decisions and influenza in Japan",
+    "author": [
+      {
+        "family": "Ibuka",
+        "given": "Yoko"
+      },
+      {
+        "family": "Ohkusa",
+        "given": "Yasushi"
+      },
+      {
+        "family": "Sugawara",
+        "given": "Tamie"
+      },
+      {
+        "family": "Chapman",
+        "given": "Gretchen B."
+      },
+      {
+        "family": "Yamin",
+        "given": "Dan"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Taniguchi",
+        "given": "Kiyosu"
+      },
+      {
+        "family": "Okabe",
+        "given": "Nobuhiko"
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "container-title": "Journal of Epidemiology & Community Health",
+    "DOI": "10.1136/jech-2015-205777",
+    "volume": "70",
+    "issue": "2",
+    "page": "162-167",
+    "URL": "https://jech.bmj.com/content/jech/70/2/162.full.pdf",
+    "citation-count": 108,
+    "note": "Original entry: [18]"
+  },
+  {
+    "id": "taylor2015cross-cult",
+    "type": "article-journal",
+    "title": "Cross-Cultural Household Influence on Vaccination Decisions",
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "Eric"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Medlock",
+        "given": "Jan"
+      },
+      {
+        "family": "Li",
+        "given": "Meng"
+      },
+      {
+        "family": "Chapman",
+        "given": "Gretchen B."
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "container-title": "Medical Decision Making",
+    "DOI": "10.1177/0272989x15591007",
+    "volume": "36",
+    "issue": "7",
+    "page": "844-853",
+    "URL": "http://doi.org/10.1177/0272989X15591007",
+    "citation-count": 20,
+    "note": "Original entry: [17]"
+  },
+  {
+    "id": "wells2015correction",
+    "type": "article-journal",
+    "title": "Correction: Harnessing Case Isolation and Ring Vaccination to Control Ebola",
+    "author": [
+      {
+        "family": "Wells",
+        "given": "Chad R."
+      },
+      {
+        "family": "Yamin",
+        "given": "Dan"
+      },
+      {
+        "family": "Ndeffo-Mbah",
+        "given": "Martial L."
+      },
+      {
+        "family": "Wenzel",
+        "given": "Natasha"
+      },
+      {
+        "family": "Gaffney",
+        "given": "Stephen G."
+      },
+      {
+        "family": "Townsend",
+        "given": "Jeffrey P."
+      },
+      {
+        "family": "Meyers",
+        "given": "Lauren Ancel"
+      },
+      {
+        "family": "Fallah",
+        "given": "Mosoka"
+      },
+      {
+        "family": "Nyenswah",
+        "given": "Tolbert"
+      },
+      {
+        "family": "Altice",
+        "given": "Frederick L."
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "container-title": "PLoS neglected tropical diseases",
+    "DOI": "10.1371/journal.pntd.0003888",
+    "volume": "9",
+    "issue": "6",
+    "page": "e0003888-e0003888",
+    "URL": "https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0003888&type=printable",
+    "citation-count": 2,
+    "note": "Original entry: [16]"
+  },
+  {
+    "id": "atkins2015under-repo",
+    "type": "article-journal",
+    "title": "Under-reporting and case fatality estimates for emerging epidemics",
+    "author": [
+      {
+        "family": "Atkins",
+        "given": "K. E."
+      },
+      {
+        "family": "Wenzel",
+        "given": "Natasha"
+      },
+      {
+        "family": "Ndeffo-Mbah",
+        "given": "Martial L."
+      },
+      {
+        "family": "Altice",
+        "given": "Frederick L."
+      },
+      {
+        "family": "Townsend",
+        "given": "Jeffrey P."
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "container-title": "BMJ",
+    "DOI": "10.1136/bmj.h1115",
+    "volume": "350",
+    "issue": "mar16 3",
+    "page": "h1115-h1115",
+    "URL": "https://www.bmj.com/content/bmj/350/bmj.h1115.full.pdf",
+    "citation-count": 41,
+    "note": "Original entry: [15]"
+  },
+  {
+    "id": "pandey2014strategies",
+    "type": "article-journal",
+    "title": "Strategies for containing Ebola in West Africa",
+    "author": [
+      {
+        "family": "Pandey",
+        "given": "Abhishek"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Medlock",
+        "given": "Jan"
+      },
+      {
+        "family": "Wenzel",
+        "given": "Natasha"
+      },
+      {
+        "family": "Townsend",
+        "given": "Jeffrey P."
+      },
+      {
+        "family": "Childs",
+        "given": "James E."
+      },
+      {
+        "family": "Nyenswah",
+        "given": "Tolbert"
+      },
+      {
+        "family": "Ndeffo-Mbah",
+        "given": "Martial L."
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "container-title": "Science",
+    "DOI": "10.1126/science.1260612",
+    "volume": "346",
+    "issue": "6212",
+    "page": "991-995",
+    "URL": "http://doi.org/10.1126/science.1260612",
+    "citation-count": 309,
+    "note": "Original entry: [14]"
+  },
+  {
+    "id": "talbert‐slagle2014cellular",
+    "type": "article-journal",
+    "title": "Cellular Superspreaders: An Epidemiological Perspective on HIV Infection inside the Body",
+    "author": [
+      {
+        "family": "Talbert‐Slagle",
+        "given": "Kristina"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Yan",
+        "given": "Koon‐Kiu"
+      },
+      {
+        "family": "Khurana",
+        "given": "Ekta"
+      },
+      {
+        "family": "Gerstein",
+        "given": "Mark"
+      },
+      {
+        "family": "Bradley",
+        "given": "Elizabeth H."
+      },
+      {
+        "family": "Berg",
+        "given": "David N."
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      },
+      {
+        "family": "Townsend",
+        "given": "Jeffrey P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "container-title": "PLoS Pathogens",
+    "DOI": "10.1371/journal.ppat.1004092",
+    "volume": "10",
+    "issue": "5",
+    "page": "e1004092-e1004092",
+    "URL": "https://journals.plos.org/plospathogens/article/file?id=10.1371/journal.ppat.1004092&type=printable",
+    "citation-count": 22,
+    "note": "Original entry: [13]"
+  },
+  {
+    "id": "atkins2013the",
+    "type": "article-journal",
+    "title": "The effectiveness of mass vaccination on Marek's disease virus (MDV) outbreaks and detection within a broiler barn: A modeling study",
+    "author": [
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Read",
+        "given": "Andrew F."
+      },
+      {
+        "family": "Walkden‐Brown",
+        "given": "Stephen W."
+      },
+      {
+        "family": "Savill",
+        "given": "Nicholas J."
+      },
+      {
+        "family": "Woolhouse",
+        "given": "Mark"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "container-title": "Epidemics",
+    "DOI": "10.1016/j.epidem.2013.10.001",
+    "volume": "5",
+    "issue": "4",
+    "page": "208-217",
+    "URL": "https://doi.org/10.1016/j.epidem.2013.10.001",
+    "citation-count": 27,
+    "note": "Original entry: [12]"
+  },
+  {
+    "id": "medlock2013evaluating",
+    "type": "article-journal",
+    "title": "Evaluating Paratransgenesis as a Potential Control Strategy for African Trypanosomiasis",
+    "author": [
+      {
+        "family": "Medlock",
+        "given": "Jan"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Thomas",
+        "given": "David N."
+      },
+      {
+        "family": "Aksoy",
+        "given": "Serap"
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "container-title": "PLoS neglected tropical diseases",
+    "DOI": "10.1371/journal.pntd.0002374",
+    "volume": "7",
+    "issue": "8",
+    "page": "e2374-e2374",
+    "URL": "https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0002374&type=printable",
+    "citation-count": 37,
+    "note": "Original entry: [11]"
+  },
+  {
+    "id": "ndeffo-mbah2013potential",
+    "type": "article-journal",
+    "title": "Potential Cost-Effectiveness of Schistosomiasis Treatment for Reducing HIV Transmission in Africa – The Case of Zimbabwean Women",
+    "author": [
+      {
+        "family": "Ndeffo-Mbah",
+        "given": "Martial L."
+      },
+      {
+        "family": "Poolman",
+        "given": "Eric M."
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Orenstein",
+        "given": "Evan"
+      },
+      {
+        "family": "Meyers",
+        "given": "Lauren Ancel"
+      },
+      {
+        "family": "Townsend",
+        "given": "Jeffrey P."
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "container-title": "PLoS neglected tropical diseases",
+    "DOI": "10.1371/journal.pntd.0002346",
+    "volume": "7",
+    "issue": "8",
+    "page": "e2346-e2346",
+    "URL": "https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0002346&type=printable",
+    "citation-count": 35,
+    "note": "Original entry: [10]"
+  },
+  {
+    "id": "bocedi2013effects",
+    "type": "article-journal",
+    "title": "Effects of local adaptation and interspecific competition on species’ responses to climate change",
+    "author": [
+      {
+        "family": "Bocedi",
+        "given": "Greta"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Liao",
+        "given": "Jishan"
+      },
+      {
+        "family": "Henry",
+        "given": "Roslyn"
+      },
+      {
+        "family": "Travis",
+        "given": "Justin M. J."
+      },
+      {
+        "family": "Hellmann",
+        "given": "Jessica J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "container-title": "Annals of the New York Academy of Sciences",
+    "DOI": "10.1111/nyas.12211",
+    "volume": "1297",
+    "issue": "1",
+    "page": "83-97",
+    "URL": "https://zenodo.org/record/3437141",
+    "citation-count": 58,
+    "note": "Original entry: [9]"
+  },
+  {
+    "id": "atkins2013epidemiolo",
+    "type": "article-journal",
+    "title": "Epidemiological mechanisms of genetic resistance to kuru",
+    "author": [
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Townsend",
+        "given": "Jeffrey P."
+      },
+      {
+        "family": "Medlock",
+        "given": "Jan"
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "container-title": "Journal of The Royal Society Interface",
+    "DOI": "10.1098/rsif.2013.0331",
+    "volume": "10",
+    "issue": "85",
+    "page": "20130331-20130331",
+    "URL": "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2013.0331",
+    "citation-count": 4,
+    "note": "Original entry: [8]"
+  },
+  {
+    "id": "ndeffo-mbah2013cost-effec",
+    "type": "article-journal",
+    "title": "Cost-effectiveness of a community-based intervention for reducing the transmission of<i>Schistosoma haematobium</i>and HIV in Africa",
+    "author": [
+      {
+        "family": "Ndeffo-Mbah",
+        "given": "Martial L."
+      },
+      {
+        "family": "Kjetland",
+        "given": "Eyrun Floerecke"
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Poolman",
+        "given": "Eric M."
+      },
+      {
+        "family": "Orenstein",
+        "given": "Evan"
+      },
+      {
+        "family": "Meyers",
+        "given": "Lauren Ancel"
+      },
+      {
+        "family": "Townsend",
+        "given": "Jeffrey P."
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "container-title": "Proceedings of the National Academy of Sciences",
+    "DOI": "10.1073/pnas.1221396110",
+    "volume": "110",
+    "issue": "19",
+    "page": "7952-7957",
+    "URL": "https://www.pnas.org/content/pnas/110/19/7952.full.pdf",
+    "citation-count": 37,
+    "note": "Original entry: [7]"
+  },
+  {
+    "id": "atkins2012vaccinatio",
+    "type": "article-journal",
+    "title": "VACCINATION AND REDUCED COHORT DURATION CAN DRIVE VIRULENCE EVOLUTION: MAREK’S DISEASE VIRUS AND INDUSTRIALIZED AGRICULTURE",
+    "author": [
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Read",
+        "given": "Andrew F."
+      },
+      {
+        "family": "Savill",
+        "given": "Nicholas J."
+      },
+      {
+        "family": "Renz",
+        "given": "Katrin"
+      },
+      {
+        "family": "Islam",
+        "given": "Afm Fakhrul"
+      },
+      {
+        "family": "Walkden‐Brown",
+        "given": "Stephen W."
+      },
+      {
+        "family": "Woolhouse",
+        "given": "Mark"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "container-title": "Evolution",
+    "DOI": "10.1111/j.1558-5646.2012.01803.x",
+    "volume": "67",
+    "issue": "3",
+    "page": "851-860",
+    "URL": "https://academic.oup.com/evolut/article-pdf/67/3/851/49952415/evolut0851.pdf",
+    "citation-count": 110,
+    "note": "Original entry: [6]"
+  },
+  {
+    "id": "atkins2012the",
+    "type": "article-journal",
+    "title": "The cost-effectiveness of pentavalent rotavirus vaccination in England and Wales",
+    "author": [
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Shim",
+        "given": "Eunha"
+      },
+      {
+        "family": "Carroll",
+        "given": "Stuart"
+      },
+      {
+        "family": "Quilici",
+        "given": "Sibilia"
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "container-title": "Vaccine",
+    "DOI": "10.1016/j.vaccine.2012.09.025",
+    "volume": "30",
+    "issue": "48",
+    "page": "6766-6776",
+    "citation-count": 36,
+    "note": "Original entry: [5]"
+  },
+  {
+    "id": "pitzer2012direct",
+    "type": "article-journal",
+    "title": "Direct and Indirect Effects of Rotavirus Vaccination: Comparing Predictions from Transmission Dynamic Models",
+    "author": [
+      {
+        "family": "Pitzer",
+        "given": "Virginia E."
+      },
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Blasio",
+        "given": "Birgitte Freiesleben de"
+      },
+      {
+        "family": "Effelterre",
+        "given": "Thierry Van"
+      },
+      {
+        "family": "Atchison",
+        "given": "Christina"
+      },
+      {
+        "family": "Harris",
+        "given": "John"
+      },
+      {
+        "family": "Shim",
+        "given": "Eunha"
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      },
+      {
+        "family": "Edmunds",
+        "given": "W. John"
+      },
+      {
+        "family": "Viboud",
+        "given": "Cécile"
+      },
+      {
+        "family": "Patel",
+        "given": "Manish M."
+      },
+      {
+        "family": "Grenfell",
+        "given": "Bryan T."
+      },
+      {
+        "family": "Parashar",
+        "given": "Umesh D."
+      },
+      {
+        "family": "Lopman",
+        "given": "Ben"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "container-title": "PLoS ONE",
+    "DOI": "10.1371/journal.pone.0042320",
+    "volume": "7",
+    "issue": "8",
+    "page": "e42320-e42320",
+    "URL": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0042320&type=printable",
+    "citation-count": 74,
+    "note": "Original entry: [4]"
+  },
+  {
+    "id": "atkins2011impact",
+    "type": "article-journal",
+    "title": "Impact of rotavirus vaccination on epidemiological dynamics in England and Wales",
+    "author": [
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Shim",
+        "given": "Eunha"
+      },
+      {
+        "family": "Pitzer",
+        "given": "Virginia E."
+      },
+      {
+        "family": "Galvani",
+        "given": "Alison P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "container-title": "Vaccine",
+    "DOI": "10.1016/j.vaccine.2011.11.064",
+    "volume": "30",
+    "issue": "3",
+    "page": "552-564",
+    "citation-count": 59,
+    "note": "Original entry: [3]"
+  },
+  {
+    "id": "atkins2011modelling",
+    "type": "article-journal",
+    "title": "Modelling Marek's Disease Virus (MDV) infection: parameter estimates for mortality rate and infectiousness",
+    "author": [
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Read",
+        "given": "Andrew F."
+      },
+      {
+        "family": "Savill",
+        "given": "Nicholas J."
+      },
+      {
+        "family": "Renz",
+        "given": "Katrin"
+      },
+      {
+        "family": "Walkden‐Brown",
+        "given": "Stephen W."
+      },
+      {
+        "family": "Woolhouse",
+        "given": "Mark"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "container-title": "BMC Veterinary Research",
+    "DOI": "10.1186/1746-6148-7-70",
+    "volume": "7",
+    "issue": "1",
+    "page": "70-70",
+    "URL": "https://bmcvetres.biomedcentral.com/counter/pdf/10.1186/1746-6148-7-70",
+    "citation-count": 30,
+    "note": "Original entry: [2]"
+  },
+  {
+    "id": "atkins2010local",
+    "type": "article-journal",
+    "title": "Local adaptation and the evolution of species’ ranges under climate change",
+    "author": [
+      {
+        "family": "Atkins",
+        "given": "Katherine E."
+      },
+      {
+        "family": "Travis",
+        "given": "Justin M. J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "container-title": "Journal of Theoretical Biology",
+    "DOI": "10.1016/j.jtbi.2010.07.014",
+    "volume": "266",
+    "issue": "3",
+    "page": "449-457",
+    "URL": "https://hal.science/hal-00616258",
+    "citation-count": 228,
+    "note": "Original entry: [1]"
+  }
+]
