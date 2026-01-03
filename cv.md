@@ -9,8 +9,8 @@ permalink: /cv/
 **2023/4--Current**
 
 - Professor of Infectious Disease Epidemiology
--- Univeristy of Edinburgh (School of Population Health Sciences) and London School of Hygiene and Tropical Medicine (Faculty of Epidemiology and Population Health)
-  
+- - University of Edinburgh (School of Population Health Sciences) and London School of Hygiene and Tropical Medicine (Faculty of Epidemiology and Population Health)
+
 **2018--2024** 
 
 ******
