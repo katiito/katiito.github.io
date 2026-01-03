@@ -6,8 +6,20 @@ permalink: /cv/
 
 <div markdown="1" class="cv">
 
+**2023/4--Current**
 
-**2017--present** 
+- Professor of Infectious Disease Epidemiology
+-- Univeristy of Edinburgh (School of Population Health Sciences) and London School of Hygiene and Tropical Medicine (Faculty of Epidemiology and Population Health)
+  
+**2018--2024** 
+
+******
+
+- Reader and Chancellor's Fellow
+- - Edinburgh Medical School, University of Edinburgh, UK
+
+
+**2017--2023** 
 
 ******
 
