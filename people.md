@@ -10,26 +10,24 @@ permalink: /people/
 # University of Edinburgh 
 
 **Dr. Hannah Lepper**
-- Research Fellow
+- Research Fellow (Wellcome-funded)
 
 **Dr. Jada Hackman**
-- Research Fellow
+- Research Fellow (Wellcome-funded)
 
 **Dr. Germander Soothill**
-- ECAT PhD Fellow
+- ECAT PhD Fellow (Wellcome-funded)
 
 **Beth Core**
-- PhD student
+- PhD student (funded by a Chancellor's Fellowship Studentship)
 
 # London School of Hygiene and Tropical Medicine
 
 **Dr. Julian Villabona-Arenas**
-- Assistant Professor (LSHTM)
-- Funded by ERC (Starting Grant) & UKHSA Collaboration Award
+- Assistant Professor (funded by ERC Starting Grant & UKHSA Collaboration Award)
 
 **Lynette Bhebhe**
-- Funded by MRC London Interdiscplinary Doctoral Training Programme
-- Co-supervised with Stéphane Hué
+- PhD student (funded by MRC London Interdiscplinary Doctoral Training Programme)
 
 # Past group members
 
