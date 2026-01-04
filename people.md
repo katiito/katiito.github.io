@@ -33,11 +33,11 @@ permalink: /people/
 
 # Past group members
 
-- **James Baxter**
-- **Emma Pujol-Hodge**
-- **David Hodgson**
-- **James Munday**
-- **Natasha Wenzel**
+- [James Baxter](https://edwebprofiles.ed.ac.uk/profile/james-baxter) Core Scientist, Roslin Institute
+- [Emma Pujol-Hodge](https://www.linkedin.com/in/emma-pujol-hodge-3aa934159) Bioinformatician, Public Health Scotland
+- [David Hodgson](https://davidhodgson.me/) Postdoctoral Researcher, Charite Berlin
+- [James Munday](https://jdmunday.github.io/) Postdoctoral Researcher, ETH Zürich
+- Natasha Wenzel
 
 
 
