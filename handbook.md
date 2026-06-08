@@ -9,7 +9,7 @@ permalink: /handbook/
 
 ---
 
-## Preface & Thanks
+## 0. Preface & Thanks
 
 This handbook has been inspired by, and copied verbatim, material from the following openly shared handbooks for academic groups:
 - CCT Data Science Team (University of Arizona) — Group Procedures book: https://cct-datascience.github.io/group-procedures/
@@ -65,7 +65,47 @@ We are a distributed group. The PI (Katie, KA) has joint positions at The Univer
 **Masters project students**
 
 
-## Section 3
+## 3. Meetings and seminars
 
-Content coming soon.
+### Weekly group meetings
+- Our weekly group meetings are hybrid to allow both Edinburgh and LSHTM to engage equally. The goal of the meeting is to foster shared scientific inspiration and creativity through engagement, understanding, and mutual respect. To allow this goal. We all meet Tuesdays 2-3.30pm online (LSHTM) and in person (Edinburgh). We rotate chairs and presenters. 
+- Each meeting starts with each member telling us for 1-2 minutes what they did during the previous week (with a slide if needed) and there will be an opportunity for others to ask questions. 
+- Presenters can choose their own work, an idea, a research paper, a skill or a professional development topic they would like to lead a discussion on. If you require the group to read any material, please give them a week’s notice. 
+- Slides are accessed through the google drive: xxxxx
+### Individual meetings with PI
+- I meet with postdocs and students either weekly or fortnightly depending on our preference. We will agree on a meeting schedule at our first meeting, and check in regularly to update as needed. 
+- After each meeting send a summary of the points raised and the action items via Discord (Edinburgh) or Slack (LSHTM).
+
+### Departmental / Centre / Institute seminars
+- Engagement with wider scientific seminars is a privilege of being part of a university and provides a vital part of scientific training and inspiration for early, mid and late career researchers. Postdocs and PhDs are expected to attend at least one seminar per week during their normal working week. Make sure you receive the following seminar invitations:
+ - Edinburgh: Mathematical Biology seminars, Biology IIR and IEE seminars (weekly), Edinburgh Infectious Diseases, Usher Institute, Edinburgh Microbiology seminars / AMR Forum
+ - LSHTM: IDE, CMMID (monthly meetings - mandatory)
+
+## 4. Communication 
+
+### Email etiquette
+Please reply with 2 working days to emails. A gentle prompt can be sent within after 2 working days to get a reply from KA, and after one week to colleagues (unless more urgent). 
+
+### Slack/Discord
+Please use Slack (LSHTM) or Discord (Edinburgh) for all internal communication.  A gentle prompt after 24h can be sent to get a reply from KA.
+
+## 5. Conferences
+
+Submitting your work for conferences is highly encouraged (either as a poster or an oral presentation). Before you do so, please remember the following:
+    - Never submit an abstract before giving all authors the ability to opt in. Therefore, please send abstracts *a minimum of 2 weeks before abstract submission. In exceptional circumstances, if this is not possible, then send authors a notice when they will receive the abstract at least 2 weeks before the abstract deadline**
+    - Always OK the author list with KA before sending to authors. For more information on this, see 'authorship'.
+    - Discuss conference attendance in good time (at least a month) with KA to confirm finances and scientific content. It is helpful to get an approximate cost for the conference is possible
+
+
+
+## 6. Onboarding & Getting Started
+First week/month checklist
+Required training and certifications
+Group space orientation
+Key contacts and resources
+Setting up accounts and access
+
+
+
+
 
