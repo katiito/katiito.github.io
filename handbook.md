@@ -9,9 +9,9 @@ permalink: /handbook/
 
 ---
 
-## Preface and thanks
+## Preface & Thanks
 
-This handbook has used borrowed and copied material from openly shared handbooks for academic groups, including the following:
+This handbook has been inspired by, and copied verbatim, material from the following openly shared handbooks for academic groups:
 - CCT Data Science Team (University of Arizona) — Group Procedures book: https://cct-datascience.github.io/group-procedures/
 - EpiForecasts (London School of Hygiene & Tropical Medicine) — Lab manual: https://epiforecasts.io/lab-manual.html
 - Whitaker Lab (Alan Turing Institute) — Project Management repo: https://github.com/WhitakerLab/WhitakerLabProjectManagement and Onboarding repo: https://github.com/WhitakerLab/Onboarding
