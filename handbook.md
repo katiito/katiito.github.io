@@ -73,7 +73,7 @@ We are a distributed group. The PI (Katie, KA) has joint positions at The Univer
 - Presenters can choose their own work, an idea, a research paper, a skill or a professional development topic they would like to lead a discussion on. If you require the group to read any material, please give them a week’s notice. 
 - Slides are accessed through the google drive: xxxxx
 ### Individual meetings with PI
-- I meet with postdocs and students either weekly or fortnightly depending on our preference. We will agree on a meeting schedule at our first meeting, and check in regularly to update as needed. 
+- Meetings with postdocs and students are either weekly or fortnightly depending on our preference. We will agree on a meeting schedule at our first meeting, and check in regularly to update as needed. 
 - After each meeting send a summary of the points raised and the action items via Discord (Edinburgh) or Slack (LSHTM).
 
 ### Departmental / Centre / Institute seminars
@@ -100,11 +100,11 @@ Submitting your work for conferences is highly encouraged (either as a poster or
 
 
 ## 6. Onboarding & Getting Started
-First week/month checklist
-Required training and certifications
-Group space orientation
-Key contacts and resources
-Setting up accounts and access
+- First week/month checklist
+- Required training and certifications
+- Group space orientation
+- Key contacts and resources
+- Setting up accounts and access
 
 
 
