@@ -84,10 +84,11 @@ We are a distributed group. The PI (Katie, KA) has joint positions at The Univer
 ## 4. Communication 
 
 ### Email etiquette
-Please reply with 2 working days to emails. A gentle prompt can be sent within after 2 working days to get a reply from KA, and after one week to colleagues (unless more urgent). 
+Please reply with 2 working days to emails. 
+A gentle prompt can be sent within after 2 working days to get a reply from KA, and after one week to colleagues (unless more urgent). 
 
 ### Slack/Discord
-Please use Slack (LSHTM) or Discord (Edinburgh) for all internal communication.  A gentle prompt after 24h can be sent to get a reply from KA.
+Please use Slack (LSHTM) or Discord (Edinburgh) for all internal communication.  A gentle prompt after 24h can be sent.
 
 ## 5. Conferences
 
