@@ -84,20 +84,25 @@ We are a distributed group. The PI (Katie, KA) has joint positions at The Univer
 ## 4. Communication 
 
 ### Email etiquette
-Please reply with 2 working days to emails. 
-A gentle prompt can be sent within after 2 working days to get a reply from KA, and after one week to colleagues (unless more urgent). 
+- Please reply with 2 working days to emails. 
+- A gentle prompt can be sent within after 2 working days to get a reply from KA, and after one week to colleagues (unless more urgent). 
 
 ### Slack/Discord
-Please use Slack (LSHTM) or Discord (Edinburgh) for all internal communication.  A gentle prompt after 24h can be sent.
+- Please use Slack (LSHTM) or Discord (Edinburgh) for all internal communication.  
+- A gentle prompt after 24h can be sent.
 
 ## 5. Conferences
 
 Submitting your work for conferences is highly encouraged (either as a poster or an oral presentation). Before you do so, please remember the following:
-    - Never submit an abstract before giving all authors the ability to opt in. Therefore, please send abstracts *a minimum of 2 weeks before abstract submission. In exceptional circumstances, if this is not possible, then send authors a notice when they will receive the abstract at least 2 weeks before the abstract deadline**
-    - Always OK the author list with KA before sending to authors. For more information on this, see 'authorship'.
-    - Discuss conference attendance in good time (at least a month) with KA to confirm finances and scientific content. It is helpful to get an approximate cost for the conference is possible
+- Never submit an abstract before giving all authors the ability to opt in. Therefore, please send abstracts *a minimum of 2 weeks before abstract submission. In exceptional circumstances, if this is not possible, then send authors a notice when they will receive the abstract at least 2 weeks before the abstract deadline**
+- Always OK the author list with KA before sending to authors. For more information on this, see 'authorship'
+- Discuss conference attendance in good time (at least a month) with KA to confirm finances and scientific content. It is helpful to get an approximate cost for the conference is possible
 
-
+## 6. Publishing and Authorship
+- Please use either Google Docs or Overleaf (latex) for writing manuscripts drafts as they allow simultaneous editing. 
+- Do not share drafts outside the group with author names listed until discussed with the PI. 
+- It is the PI's job to organise and manage authorship for papers
+ 
 
 ## 6. Onboarding & Getting Started
 - First week/month checklist
