@@ -78,7 +78,7 @@ We are a distributed group. The PI (Katie, KA) has joint positions at The Univer
 
 ### Departmental / Centre / Institute seminars
 - Engagement with wider scientific seminars is a privilege of being part of a university and provides a vital part of scientific training and inspiration for early, mid and late career researchers. Postdocs and PhDs are expected to attend at least one seminar per week during their normal working week. Make sure you receive the following seminar invitations:
- - Edinburgh: Mathematical Biology seminars, Biology IIR and IEE seminars (weekly), Edinburgh Infectious Diseases, Usher Institute, Edinburgh Microbiology seminars / AMR Forum
+ - Edinburgh: Mathematical Biology seminars, Biology IIR and IEE seminars (weekly), Edinburgh Infectious Diseases, Usher Institute, Edinburgh Microbiology seminars / AMR Forum, Virus Club, IDDI
  - LSHTM: IDE, CMMID (monthly meetings - mandatory)
 
 ## 4. Communication 
@@ -104,14 +104,65 @@ Submitting your work for conferences is highly encouraged (either as a poster or
 - It is the PI's job to organise and manage authorship for papers
  
 
-## 6. Onboarding & Getting Started
+## 7. Onboarding & Getting Started
 - First week/month checklist
 - Required training and certifications
 - Group space orientation
 - Key contacts and resources
 - Setting up accounts and access
 
+# 8. AI use
+
+### Policy
+AI has changed the way we do research and our role as scientists. We have a group lab policy for AI use in research. The exact implementation of how we use AI day to day will change, however, there are certain guiding principles that govern how we use AI:
+- Our group encourages AI use to improve the quality and quantity of our science 
+- Anything with your name on (code, manuscripts etc.) remains your responsibility, regardless of whether you use AI. 
+- As AI can help speed-up the coding, our academic role becomes less coder and more curator, manager, director and supervisor. 
+
+## Set up and usage guidelines
+We currently use Anthropic's Claude models for a general all-rounder AI model (coding, general research, maths, paper review etc.). Here are the steps to integrate this into your workflow:
+1. **Subscribe** 
+- Create/sign into Claude [www.claude.ai]
+- Upgrade to Claude Pro (pay monthly - £17)
+- Be reimbursed by the grant paying your salary
+2. **Set up Claude for non-coding tasks**
+- Use the webapp or the download the app
+- Use it for: literature review, maths derivations, research planning, writing
+- Keep one thread per topic so context stays coherent.
+- Use projects to organise files
+- For prompt help, see these useful guides: xxxx
+3. **Set up Claude Code**
+- There are two ways you can use Claude Code: via VS Code or via Command Line Interface (CLI)
+- VS Code: download Microsoft Visual Studio Code [https://code.visualstudio.com/]
+- Install Claude Code for VS Code [https://code.claude.com/docs/en/vs-code]
+- Take a look around: read through all the [https://code.claude.com/docs/en/vs-code](documentation), making sure you are using the right model
 
 
+
+3B) How we use it in the lab
+
+
+Optional: try Claude Code (via CLI or VS Code extension)
+
+Some coding features require the CLI: https://code.claude.com/docs/en/vs-code#vs-code-extension-vs-claude-code-cli
+A) Use CLI: https://code.claude.com/docs/en/overview (need Claude Pro)
+B) Use Claude Code in VS Code: https://code.claude.com/docs/en/vs-code
+
+NB: To use the most competent model: type /model into the chat box, choose the ‘most capable for complex work’ [as of 9Feb2026 this was Opus 4.6, but will constantly change].
+
+
+4) Expensing policy (Claude Pro)
+What to expense
+Claude Pro subscription (monthly)
+What to submit
+For each expense submission, include:
+Receipt (PDF or screenshot)
+Default: expense every 1-2 months (please set up reminder to do this).
+
+
+5) Appropriate Usage Policy
+The Claude Pro account is intended for work-related use (research, writing, literature review, maths/science problem-solving etc.). Occasional personal use is fine, but please avoid using it heavily for non-work tasks so you don’t burn through your Claude usage limits when you need them for the project. 
+
+Similarly, Copilot Pro is intended for work-related coding, so do not use the Copilot premium models (Opus 4.5 etc) for non-work use as this will severely limit your work-related capacity. 
 
 
