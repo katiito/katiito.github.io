@@ -124,7 +124,7 @@ We currently use Anthropic's Claude models for a general all-rounder AI model (c
 1. **Subscribe** 
 - Create/sign into Claude [www.claude.ai]
 - Upgrade to Claude Pro (pay monthly - £17)
-- Be reimbursed by the grant paying your salary
+- Be reimbursed by the grant paying your salary. For each expense submission, include: Receipt (PDF or screenshot). Default: expense every 1-2 months (please set up reminder to do this)
 2. **Set up Claude for non-coding tasks**
 - Use the webapp or the download the app
 - Use it for: literature review, maths derivations, research planning, writing
@@ -133,31 +133,14 @@ We currently use Anthropic's Claude models for a general all-rounder AI model (c
 - For prompt help, see these useful guides: xxxx
 3. **Set up Claude Code**
 - There are two ways you can use Claude Code: via VS Code or via Command Line Interface (CLI)
-- VS Code: download Microsoft Visual Studio Code [https://code.visualstudio.com/]
-- Install Claude Code for VS Code [https://code.claude.com/docs/en/vs-code]
-- Take a look around: read through all the [https://code.claude.com/docs/en/vs-code](documentation), making sure you are using the right model
+- VS Code
+    - download Microsoft Visual Studio Code [https://code.visualstudio.com/]
+    - Install Claude Code for VS Code [https://code.claude.com/docs/en/vs-code]
+    - Take a look around: read through all the [https://code.claude.com/docs/en/vs-code](documentation), making sure you are using the right model
+- CLI
+    - Some coding features require the CLI: https://code.claude.com/docs/en/vs-code#vs-code-extension-vs-claude-code-cli
 
 
-
-3B) How we use it in the lab
-
-
-Optional: try Claude Code (via CLI or VS Code extension)
-
-Some coding features require the CLI: https://code.claude.com/docs/en/vs-code#vs-code-extension-vs-claude-code-cli
-A) Use CLI: https://code.claude.com/docs/en/overview (need Claude Pro)
-B) Use Claude Code in VS Code: https://code.claude.com/docs/en/vs-code
-
-NB: To use the most competent model: type /model into the chat box, choose the ‘most capable for complex work’ [as of 9Feb2026 this was Opus 4.6, but will constantly change].
-
-
-4) Expensing policy (Claude Pro)
-What to expense
-Claude Pro subscription (monthly)
-What to submit
-For each expense submission, include:
-Receipt (PDF or screenshot)
-Default: expense every 1-2 months (please set up reminder to do this).
 
 
 5) Appropriate Usage Policy
