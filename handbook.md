@@ -144,7 +144,3 @@ We currently use Anthropic's Claude models for a general all-rounder AI model (c
 
 
 
-5) Appropriate Usage Policy
-
-
-
