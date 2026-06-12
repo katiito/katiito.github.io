@@ -101,7 +101,7 @@ Submitting your work for conferences is highly encouraged (either as a poster or
 ## 6. Publishing and Authorship
 - Please use either Google Docs or Overleaf (latex) for writing manuscripts drafts as they allow simultaneous editing. 
 - Do not share drafts outside the group with author names listed until discussed with the PI. 
-- It is the PI's job to organise and manage authorship for papers
+- It is the PI's job to organise and manage authorship for papers, and identify the candidate journal for submission
  
 
 ## 7. Onboarding & Getting Started
