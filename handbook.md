@@ -118,6 +118,7 @@ AI has changed the way we do research and our role as scientists. We have a grou
 - Our group encourages AI use to improve the quality and quantity of our science 
 - Anything with your name on (code, manuscripts etc.) remains your responsibility, regardless of whether you use AI. 
 - As AI can help speed-up the coding, our academic role becomes less coder and more curator, manager, director and supervisor. 
+- The Claude Pro account is intended for work-related use (research, writing, literature review, maths/science problem-solving etc.). Occasional personal use is fine, but please avoid using it heavily for non-work tasks so you don’t burn through your Claude usage limits when you need them for the project. 
 
 ## Set up and usage guidelines
 We currently use Anthropic's Claude models for a general all-rounder AI model (coding, general research, maths, paper review etc.). Here are the steps to integrate this into your workflow:
@@ -144,8 +145,6 @@ We currently use Anthropic's Claude models for a general all-rounder AI model (c
 
 
 5) Appropriate Usage Policy
-The Claude Pro account is intended for work-related use (research, writing, literature review, maths/science problem-solving etc.). Occasional personal use is fine, but please avoid using it heavily for non-work tasks so you don’t burn through your Claude usage limits when you need them for the project. 
 
-Similarly, Copilot Pro is intended for work-related coding, so do not use the Copilot premium models (Opus 4.5 etc) for non-work use as this will severely limit your work-related capacity. 
 
 
